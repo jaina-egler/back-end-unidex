@@ -1,0 +1,1911 @@
+{
+    "docs": [
+      {
+        "veiculo_lavado": {
+          "resposta": false,
+          "obs": "Vel est at. Ea aut voluptate iusto et necessitatibus. Qui nobis itaque similique. Pariatur placeat placeat iure consequatur sequi neque illo vero sed."
+        },
+        "lataria_amassada": {
+          "resposta": true,
+          "obs": "Tenetur saepe ipsum et eos et natus eum nemo nisi. Veniam excepturi incidunt quod rem odit. Non eveniet quae molestiae id.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2",
+            "Imagem 3"
+          ]
+        },
+        "riscados_pintura": {
+          "resposta": true,
+          "obs": "Aut ut impedit aperiam qui omnis. Et quaerat minus sit ut. Quae aliquam saepe non impedit reiciendis debitis et iste laborum. Aut nihil enim et quisquam aliquid debitis. Odit sequi qui necessitatibus aut dolor sunt et.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2",
+            "Imagem 3",
+            "Imagem 4",
+            "Imagem 5"
+          ]
+        },
+        "bau_bom_estado": {
+          "resposta": false,
+          "obs": "Officiis id aut voluptatem et sunt et possimus. Non incidunt voluptas corporis suscipit est rerum dolores quos. Error aut ab ipsa. In qui aut. Esse ipsam repellendus consequatur repudiandae quos.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2",
+            "Imagem 3"
+          ]
+        },
+        "faixas_refletivas_bom_estado": {
+          "resposta": false,
+          "obs": "Est nihil ut quas inventore perferendis quia saepe. Non ut molestias veritatis modi. Ducimus non aut qui autem est accusantium. Non illum omnis sit. Dolore explicabo qui voluptatem. Iusto a ea.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2",
+            "Imagem 3",
+            "Imagem 4"
+          ]
+        },
+        "farol_funcionando": {
+          "resposta": false,
+          "obs": "Repellat saepe quos ab quod at aut et aspernatur et. Magnam ut consequuntur sequi modi odio nihil. Ad ab numquam. Officiis sunt esse. Vel qui et consectetur est atque nostrum. Molestias quaerat nam ipsum repudiandae voluptas vel."
+        },
+        "luz_alta_funcionando": {
+          "resposta": true,
+          "obs": "Et quisquam voluptate impedit perferendis. Quo laborum saepe dolor. Voluptatem sunt optio dignissimos sit quibusdam ut. Fugiat fugiat dolorum ad nulla. Id vitae eos modi enim pariatur sed."
+        },
+        "meia_luz_funcionando": {
+          "resposta": true,
+          "obs": "Laborum eos eos mollitia dolore. Velit possimus quis nulla officia rerum et et labore. Velit laborum beatae."
+        },
+        "setas_funcionando": {
+          "resposta": false,
+          "obs": "Aut nobis eligendi ut autem doloremque vero eveniet. Ab quod voluptatem iste et rem dolores veniam. Ipsum suscipit aut sint omnis totam unde quo ut et. Est adipisci dolorem consequatur cumque sed voluptas dolor veniam fugiat."
+        },
+        "lanternas_laterias_funcionando": {
+          "resposta": true,
+          "obs": "Veniam et quae qui est amet voluptas eos. Perferendis aliquid nesciunt. Rerum ea aliquam id dicta fugiat recusandae deserunt ipsum et. In omnis exercitationem consequatur doloremque est porro odio minima. Quis accusamus dicta quibusdam culpa. Perspiciatis assumenda eveniet eos in velit nam laborum."
+        },
+        "lanterna_traseira_funcionando": {
+          "resposta": true,
+          "obs": "Suscipit rem repellendus sed sit aut minima hic rem. Magnam et consequatur magnam vel. Omnis temporibus unde nesciunt et architecto. Voluptatem ipsa cupiditate."
+        },
+        "luz_freio_funcionando": {
+          "resposta": true,
+          "obs": "Distinctio accusantium ut aut illum quo quasi quaerat est accusamus. Accusantium ab dolorem voluptatem. Consequatur tenetur qui et dolorem suscipit."
+        },
+        "pneus_calibrados": {
+          "resposta": true,
+          "obs": "Architecto fugit aspernatur ut. Distinctio eum quas doloribus aut cupiditate qui hic. Eos molestiae voluptatem aut."
+        },
+        "pneus_carecas": {
+          "resposta": true,
+          "obs": "Omnis nisi voluptates natus beatae neque velit est consequatur. Et et alias. Ipsum qui esse sint nisi molestiae fuga et suscipit voluptatem.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2"
+          ]
+        },
+        "pneu_estepe_calibrado": {
+          "resposta": false,
+          "obs": "Quos sunt et iste voluptas. Vitae debitis beatae accusantium animi veniam eos. Ullam omnis et reprehenderit. Temporibus dolores temporibus adipisci qui et voluptate. Fuga accusantium vero excepturi ullam impedit autem placeat et."
+        },
+        "troca_oleo_em_dia": {
+          "resposta": true
+        },
+        "agua_radiador_conferida": {
+          "resposta": false,
+          "obs": "Consequuntur dolorem saepe. Consequatur quasi illum exercitationem a explicabo est. Ducimus dolorem saepe ab eveniet aspernatur ut vitae et. Totam vero modi velit dolorem est quas."
+        },
+        "macaco_em_bom_estado": {
+          "resposta": true,
+          "obs": "Quo explicabo ipsa eos ipsum. Quia vel provident autem voluptatibus aut dolores iste facere. Similique in asperiores libero deserunt rerum qui officiis quasi. Harum dignissimos illum quaerat laborum. Modi rerum non debitis. Quasi mollitia quia consequuntur id possimus."
+        },
+        "triangulo_de_sinalização_em_bom_estado": {
+          "resposta": false,
+          "obs": "Ut ut ipsa ad ad ut labore fugiat. Quisquam voluptatem tenetur nulla non. Aut dolorum temporibus est."
+        },
+        "chave_de_roda_e_cabo_de_força": {
+          "resposta": false,
+          "obs": "Eum quidem impedit voluptates accusamus dolores iste impedit itaque. Facilis harum vel placeat in eligendi. Optio architecto velit id molestiae. Iusto ex vitae velit. Et cumque dignissimos quo optio. Quo qui consequuntur deleniti ut a reprehenderit."
+        },
+        "veiculo_lubrificado": {
+          "resposta": true,
+          "obs": "Provident tenetur et qui eius pariatur quae consequatur totam est. Non voluptates dolorum aliquam eos commodi aliquid. Asperiores repellat velit harum quidem. Eaque iste ut nemo eum. Provident ipsam at autem. Sit incidunt nulla dicta nihil nesciunt."
+        },
+        "freios_regulados": {
+          "resposta": false,
+          "obs": "Neque voluptatem et dolores ipsa. Iusto et molestiae accusantium. Nulla quae et rem et et tenetur. Expedita aliquid est quo doloribus deserunt et maxime. Similique voluptas consequatur dolor quam repudiandae. Tenetur neque distinctio temporibus."
+        },
+        "documento_obrigatorio_em_dia": {
+          "resposta": false
+        },
+        "manual_do_veiculo_em_bom_estado": {
+          "resposta": false,
+          "obs": "Eaque voluptatem fugiat eaque itaque quidem officiis recusandae quia. Ipsum laudantium odit et possimus. Odio at nemo suscipit ut. Assumenda et ipsam qui velit et. Vitae itaque ut dicta aut sapiente ut sit. Et id et optio."
+        },
+        "habitacao_do_condutor_em_dia": {
+          "resposta": false
+        },
+        "cartao_ANTT_em_dia": {
+          "resposta": true
+        },
+        "adesivo_ANTT_em_bom_estado": {
+          "resposta": true,
+          "obs": "Reprehenderit recusandae in rerum quas qui sed voluptatem. Excepturi repellat ipsum maiores voluptates nihil qui adipisci expedita. Sed rerum aut qui rem accusamus minima eum est et. Excepturi corrupti consequatur dolore ratione unde dolorem quod officia non. Voluptatem qui est deserunt quibusdam."
+        },
+        "pintura_tara_em_bom_estado": {
+          "resposta": false,
+          "obs": "Aperiam voluptatum tempora vero modi ex. Nesciunt dolores quidem reiciendis sed ipsam explicabo non. Et quibusdam repudiandae necessitatibus a facilis hic. Sequi quos deleniti quas."
+        },
+        "tacografo_funcionando_e_em_bom_estado": {
+          "resposta": false,
+          "obs": "Sed incidunt consequatur deleniti officia neque. Beatae ratione corrupti est minima consectetur quasi rem maxime non. Debitis enim ipsam non quasi quibusdam quaerat vel. Non et eum itaque. Omnis expedita non aut illo est quo aperiam."
+        },
+        "disco_de_tacografo_substituido": {
+          "resposta": false,
+          "obs": "Dolor consequuntur amet libero delectus illum placeat minima ab dignissimos. Quia repellendus dicta ipsam error ipsam ipsum. Consequatur est repellat."
+        },
+        "certificado_de_aferição_em_dia": {
+          "resposta": true
+        },
+        "_id": "644b28b5a49f24e176e7f80e",
+        "data_verificacao": "2022-05-27T19:21:08.686Z",
+        "Oid_veiculo": {
+          "_id": "644b28b5a49f24e176e7f76a",
+          "placa": "ABC1234",
+          "marca": "quia delectus",
+          "modelo": "et debitis",
+          "ano": 3578,
+          "renavan": "66666666666",
+          "vencimento_ipva": "2023-11-15T07:05:47.127Z",
+          "km_atual": 0,
+          "ativo": true
+        },
+        "Oid_motorista": {
+          "endereco": {
+            "logradouro": "Angelita Alameda",
+            "numero": "7071",
+            "cep": "76982-136",
+            "bairro": "Buckinghamshire",
+            "cidade": "Velha Aparecida de Nossa Senhora",
+            "estado": "RO",
+            "complemento": "Apt. 591"
+          },
+          "cnh": {
+            "numero": "5555555555",
+            "categoria": "AE",
+            "vencimento": "2023-08-02T11:51:37.775Z"
+          },
+          "_id": "644b28b4a49f24e176e7f6f7",
+          "nome": "Joceli Oliveira",
+          "cpf": "064.779.292-36",
+          "rg": "666623198",
+          "data_nascimento": "2023-04-19T20:10:31.239Z",
+          "foto_pessoa": ".jpg",
+          "nivel": 4,
+          "telefone": "(62) 66579-6484",
+          "observacao": "",
+          "ativo": true,
+          "email": "jocelioliveira88@outlook.com",
+          "__v": 0
+        },
+        "ativo": true
+      },
+      {
+        "veiculo_lavado": {
+          "resposta": true,
+          "obs": "Culpa consequatur laudantium ipsam recusandae. Possimus corporis placeat perferendis magnam explicabo officia. Provident repudiandae qui accusantium consequuntur et omnis quo exercitationem non. Saepe repellendus doloribus dolorem. Est nisi quae ex dolores consequatur quidem."
+        },
+        "lataria_amassada": {
+          "resposta": false,
+          "obs": "Aut quas commodi itaque ratione molestias soluta ut ipsam. Eaque laudantium consequatur aut in aut expedita dicta molestiae. Dolor non voluptas vel ut ad officia. Quam eligendi voluptate et. Nesciunt officiis perferendis. Quibusdam consequatur consequatur consequatur libero autem.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2",
+            "Imagem 3",
+            "Imagem 4",
+            "Imagem 5"
+          ]
+        },
+        "riscados_pintura": {
+          "resposta": false,
+          "obs": "Non repellat sapiente dolores consequatur consequatur cupiditate suscipit quia excepturi. Repellendus dicta ut consequatur soluta perspiciatis. Est saepe itaque blanditiis corrupti autem ipsa. Ullam vero doloremque corporis accusantium id saepe cum.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2",
+            "Imagem 3",
+            "Imagem 4",
+            "Imagem 5",
+            "Imagem 6"
+          ]
+        },
+        "bau_bom_estado": {
+          "resposta": false,
+          "obs": "Sed possimus reprehenderit optio. Voluptatibus odio incidunt enim. Voluptas et voluptatum quos sunt qui explicabo ut. Natus omnis asperiores voluptate sunt assumenda qui tempora iure. Culpa voluptatibus est. Quasi itaque voluptas eligendi dolores ipsum voluptas et et corrupti.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2",
+            "Imagem 3"
+          ]
+        },
+        "faixas_refletivas_bom_estado": {
+          "resposta": false,
+          "obs": "Dolores laboriosam ipsa eum. Voluptas eaque omnis non beatae nihil exercitationem qui. Eos nihil qui nisi. Adipisci debitis molestias qui illo et aut eveniet.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2"
+          ]
+        },
+        "farol_funcionando": {
+          "resposta": true,
+          "obs": "Eius est quo debitis saepe eveniet molestiae officia quia eaque. Minima corrupti enim rem aut optio eius nostrum. Dolorum vitae quis fugit eveniet sed distinctio non dolores. Tempore impedit saepe labore quaerat fugiat reprehenderit maiores temporibus aut. At officia maiores officiis quos perferendis est odio."
+        },
+        "luz_alta_funcionando": {
+          "resposta": true,
+          "obs": "Deleniti et non voluptate aliquid fugiat in et corporis assumenda. Molestiae est adipisci accusamus impedit voluptatibus. Quod explicabo consequuntur optio vero necessitatibus soluta nihil. Quod consequuntur sunt velit est."
+        },
+        "meia_luz_funcionando": {
+          "resposta": false,
+          "obs": "Ipsa quisquam dolor. Modi aut tempora corrupti. Aut eligendi assumenda hic nam et qui et ut dolores. Pariatur optio et quas dolorum quia. Omnis voluptates ducimus nesciunt sed."
+        },
+        "setas_funcionando": {
+          "resposta": false,
+          "obs": "Et culpa tempora nobis magni nihil eum. Odit ea non dolore ratione dolor eum quasi qui. Cum quis sint natus eligendi."
+        },
+        "lanternas_laterias_funcionando": {
+          "resposta": true,
+          "obs": "Id libero cumque iure minima consequuntur est. Dolores non accusantium. Nobis officiis aut voluptas soluta temporibus sed aperiam et. In illo aut quia nesciunt est excepturi qui. Voluptatem est eum non cupiditate sunt. Nam voluptatem magnam et ducimus sequi error doloribus totam."
+        },
+        "lanterna_traseira_funcionando": {
+          "resposta": false,
+          "obs": "Voluptatem maxime quam nemo. Nesciunt modi nulla quod doloribus rerum mollitia. Libero itaque temporibus. In dolorem dolor dicta est eos voluptatem facilis sed voluptatem. Ut eius pariatur facilis."
+        },
+        "luz_freio_funcionando": {
+          "resposta": true,
+          "obs": "Tempora provident temporibus molestiae consequatur enim. Culpa voluptatem aut quibusdam eum velit voluptatem mollitia. Quis velit aperiam deleniti reprehenderit."
+        },
+        "pneus_calibrados": {
+          "resposta": true,
+          "obs": "Rerum modi nesciunt magnam optio ea cum sunt enim voluptate. Velit aperiam quia sunt doloribus. Repellat harum est est quidem similique sed consequatur occaecati."
+        },
+        "pneus_carecas": {
+          "resposta": true,
+          "obs": "Fugiat illo deleniti impedit. Ea autem consequatur impedit. Corrupti et dolor architecto sed quibusdam in. Consequatur neque hic molestiae voluptas.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2",
+            "Imagem 3",
+            "Imagem 4",
+            "Imagem 5",
+            "Imagem 6",
+            "Imagem 7"
+          ]
+        },
+        "pneu_estepe_calibrado": {
+          "resposta": true,
+          "obs": "Laborum veniam ut consectetur ut molestiae in sed reprehenderit suscipit. Ipsa consequatur qui. Facilis et minima hic dicta consectetur sunt. Odio veniam corporis alias dolores quae quos illo. Voluptates fugiat enim aperiam libero officia sed. Dolores magnam ab non autem."
+        },
+        "troca_oleo_em_dia": {
+          "resposta": false
+        },
+        "agua_radiador_conferida": {
+          "resposta": false,
+          "obs": "Perspiciatis repellendus doloremque tempora neque non optio et vel ut. Sapiente recusandae illum ipsum enim est. Explicabo et consectetur ad quia adipisci. Sed incidunt dolore voluptatem veniam rerum deserunt est magnam."
+        },
+        "macaco_em_bom_estado": {
+          "resposta": true,
+          "obs": "Aut ex molestiae vero voluptate ducimus dolorum nulla ipsam et. Consequatur consequatur vel pariatur. Neque quia molestiae velit a animi."
+        },
+        "triangulo_de_sinalização_em_bom_estado": {
+          "resposta": true,
+          "obs": "Et est et veritatis nesciunt qui tempora ratione et dolores. Libero porro nisi corporis et possimus nemo ipsum optio veritatis. In ipsum et aut voluptate. Impedit quia veniam necessitatibus necessitatibus necessitatibus."
+        },
+        "chave_de_roda_e_cabo_de_força": {
+          "resposta": false,
+          "obs": "Accusantium rerum minima ea ratione. Ipsam esse ad. In blanditiis autem. Consectetur blanditiis libero voluptates sunt nam quae. Ipsa omnis labore ea. Suscipit perspiciatis placeat et est id occaecati qui amet."
+        },
+        "veiculo_lubrificado": {
+          "resposta": true,
+          "obs": "Vitae qui est pariatur dolorum reprehenderit consequuntur. Accusantium laboriosam minima id sunt. Quasi amet non rerum voluptatem dignissimos et dolore vero. Aliquid molestiae illum repudiandae ex quia. Dolorem sit quas."
+        },
+        "freios_regulados": {
+          "resposta": false,
+          "obs": "Repudiandae consequuntur iste enim atque et. Assumenda est optio. Minima vero ratione nam deleniti. Culpa est nostrum iusto sed inventore inventore voluptas velit non. Molestiae excepturi voluptatibus earum tempore autem. Quos placeat suscipit eos odio error doloremque cupiditate necessitatibus."
+        },
+        "documento_obrigatorio_em_dia": {
+          "resposta": false
+        },
+        "manual_do_veiculo_em_bom_estado": {
+          "resposta": false,
+          "obs": "Consequuntur voluptas a magnam molestias. Neque totam dolorem. Consectetur laborum nihil. Aut illum numquam."
+        },
+        "habitacao_do_condutor_em_dia": {
+          "resposta": true
+        },
+        "cartao_ANTT_em_dia": {
+          "resposta": false
+        },
+        "adesivo_ANTT_em_bom_estado": {
+          "resposta": true,
+          "obs": "Ullam dolor animi qui rerum et. Vitae sit et nostrum provident id esse aut et sequi. Voluptatem porro tenetur voluptatem tempora consequuntur. Nihil explicabo dolorem. Quibusdam et rerum est odit. Ut qui nisi qui possimus."
+        },
+        "pintura_tara_em_bom_estado": {
+          "resposta": false,
+          "obs": "Nisi eum consequuntur suscipit. Perferendis sunt dolorum optio ad. Et dignissimos deleniti sint possimus ipsam id cumque. Ea fuga unde qui debitis assumenda. Ratione nostrum aspernatur dolore possimus ratione culpa ipsam est dolorum."
+        },
+        "tacografo_funcionando_e_em_bom_estado": {
+          "resposta": false,
+          "obs": "Illo officia aspernatur tempora officia hic perspiciatis adipisci quia sequi. Dolor ut ipsam fuga. Ut doloremque quis et. Alias voluptatibus placeat in sint et asperiores eum magnam."
+        },
+        "disco_de_tacografo_substituido": {
+          "resposta": true,
+          "obs": "Quo explicabo quaerat quisquam modi corporis numquam nam. Quia minima id vel ratione nobis tempore magni ipsa iste. Asperiores in reiciendis sunt laudantium consectetur aperiam. Nostrum nostrum ut enim et illum maxime quis. Qui perspiciatis vero labore alias."
+        },
+        "certificado_de_aferição_em_dia": {
+          "resposta": true
+        },
+        "_id": "644b28b5a49f24e176e7f810",
+        "data_verificacao": "2022-06-07T20:53:45.921Z",
+        "Oid_veiculo": {
+          "_id": "644b28b5a49f24e176e7f75a",
+          "placa": "ABC1234",
+          "marca": "neque voluptatem",
+          "modelo": "aut facere",
+          "ano": 3387,
+          "renavan": "44444444444",
+          "vencimento_ipva": "2024-02-22T02:14:44.210Z",
+          "km_atual": 0,
+          "ativo": true
+        },
+        "Oid_motorista": {
+          "endereco": {
+            "logradouro": "Macedo Alameda",
+            "numero": "5408",
+            "cep": "76982-136",
+            "bairro": "Bedfordshire",
+            "cidade": "Silva do Norte",
+            "estado": "RO",
+            "complemento": "Suite 601"
+          },
+          "cnh": {
+            "numero": "5555555555",
+            "categoria": "C",
+            "vencimento": "2023-11-26T23:38:08.865Z"
+          },
+          "_id": "644b28b5a49f24e176e7f70b",
+          "nome": "Yolando Batista",
+          "cpf": "064.779.292-36",
+          "rg": "971171444",
+          "data_nascimento": "2022-07-23T02:05:02.494Z",
+          "foto_pessoa": ".jpg",
+          "nivel": 5,
+          "telefone": "+55 (49) 5360-1228",
+          "observacao": "",
+          "ativo": true,
+          "email": "yolandobatista7@gmail.com",
+          "__v": 0
+        },
+        "ativo": false
+      },
+      {
+        "veiculo_lavado": {
+          "resposta": true,
+          "obs": "Quidem dignissimos aut tempore facilis voluptatem. Vel qui aut modi fugiat tempore ut et. Facilis reprehenderit voluptas quia ea iste. Quos consequatur cumque laboriosam possimus sed ut illum."
+        },
+        "lataria_amassada": {
+          "resposta": true,
+          "obs": "Ex qui molestiae libero. Eius ipsa amet aliquid tempora beatae et. Ab est enim est vel assumenda. Quis aspernatur suscipit suscipit quisquam quia exercitationem.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2",
+            "Imagem 3"
+          ]
+        },
+        "riscados_pintura": {
+          "resposta": false,
+          "obs": "Ut sunt aut iusto laudantium mollitia in cum tenetur voluptatem. Debitis corporis sint molestiae aliquam dolores reprehenderit aut. Fugit ad dolores sed rerum quos recusandae sunt placeat. Atque sunt beatae vel. Tempora rem id quibusdam.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2",
+            "Imagem 3",
+            "Imagem 4",
+            "Imagem 5"
+          ]
+        },
+        "bau_bom_estado": {
+          "resposta": true,
+          "obs": "Dolor molestiae accusantium sunt ut qui dolores. Nemo blanditiis officiis pariatur facilis maxime repellendus qui suscipit. Sed minus illo dolor nemo.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2",
+            "Imagem 3",
+            "Imagem 4"
+          ]
+        },
+        "faixas_refletivas_bom_estado": {
+          "resposta": false,
+          "obs": "Repellat et esse omnis voluptate ex laboriosam placeat qui. Quibusdam maiores commodi iusto nobis sed nihil voluptas fugiat et. Non voluptatibus harum a dolore molestiae qui quas vitae amet. Sapiente commodi in tempora reiciendis quod assumenda tempora nobis id. Et provident ipsam. Magnam fugiat asperiores culpa.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2",
+            "Imagem 3"
+          ]
+        },
+        "farol_funcionando": {
+          "resposta": false,
+          "obs": "Natus sit fuga quia. Quis itaque eos. Tenetur dolor natus beatae sit enim id eos culpa non. Doloribus quam sunt a. Dolores quibusdam repellat ut enim numquam nihil dolores."
+        },
+        "luz_alta_funcionando": {
+          "resposta": false,
+          "obs": "Facilis doloribus aut pariatur ipsam quae nulla. Optio in aspernatur quia qui sint in unde et sequi. Rerum ut vel et temporibus. Maiores earum numquam laborum quisquam quidem dignissimos animi nostrum est. Ut sit dolorem. Sunt qui deleniti."
+        },
+        "meia_luz_funcionando": {
+          "resposta": false,
+          "obs": "Sapiente voluptatem eius voluptatem. Error culpa dolor quae tempora doloremque et deleniti ullam. Explicabo amet ad. Rerum doloribus ex et. Sit laboriosam vero et. Dolor facilis perspiciatis dolorem aut temporibus."
+        },
+        "setas_funcionando": {
+          "resposta": false,
+          "obs": "Quo iure ipsum excepturi non. Doloribus dicta qui. Vel ut quia ratione non sint non est aut. Non officia inventore recusandae ut commodi. Doloribus repellendus occaecati deleniti."
+        },
+        "lanternas_laterias_funcionando": {
+          "resposta": false,
+          "obs": "Voluptate et commodi pariatur dolorem sit ducimus enim qui numquam. Labore voluptate rerum numquam nam et vel sit. Sit aut at doloremque dolor corrupti eum. Esse aliquid ipsum laborum beatae."
+        },
+        "lanterna_traseira_funcionando": {
+          "resposta": false,
+          "obs": "Impedit et unde repudiandae sit. Doloremque sint hic ea consequuntur dolorum ut numquam praesentium eaque. Tempora aut id et excepturi aut voluptatem. Ratione facere voluptas. Dicta laboriosam dignissimos fuga praesentium magni numquam veritatis doloribus et. Consectetur ipsum consequatur."
+        },
+        "luz_freio_funcionando": {
+          "resposta": false,
+          "obs": "Cumque sequi eos similique rem quod quae exercitationem qui vel. Repudiandae sint ipsum aut reiciendis voluptatibus ut repudiandae illo et. Doloribus quasi id cumque."
+        },
+        "pneus_calibrados": {
+          "resposta": false,
+          "obs": "Consequuntur facilis consequatur esse voluptas deleniti ut reprehenderit facere. Laboriosam quam ut quibusdam soluta. Qui dignissimos quaerat qui. Quae expedita nemo sit in aut dolore illum eum saepe. Totam aut neque nulla inventore."
+        },
+        "pneus_carecas": {
+          "resposta": false,
+          "obs": "Est est fugiat asperiores eos officiis alias non sunt. Laboriosam eos veniam dolores similique rerum. In magni vel itaque omnis. Voluptates expedita possimus.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2",
+            "Imagem 3",
+            "Imagem 4",
+            "Imagem 5",
+            "Imagem 6"
+          ]
+        },
+        "pneu_estepe_calibrado": {
+          "resposta": true,
+          "obs": "Ut eum inventore alias ut. Nihil voluptatem vitae nam. Harum distinctio veritatis corporis consectetur velit excepturi incidunt. Numquam debitis maxime et sed possimus. Ipsa quo ad maiores veniam officiis consequatur. In eos est est fugit cumque odit accusamus rerum."
+        },
+        "troca_oleo_em_dia": {
+          "resposta": false
+        },
+        "agua_radiador_conferida": {
+          "resposta": false,
+          "obs": "Labore veniam vel quas non sint et. Porro aliquam incidunt. Accusamus quis alias dolores et cupiditate exercitationem quia occaecati."
+        },
+        "macaco_em_bom_estado": {
+          "resposta": false,
+          "obs": "Repudiandae alias voluptatem animi autem assumenda voluptatum libero non. Repudiandae voluptatem aliquam. Cumque veritatis laboriosam vel reiciendis facere. Veritatis omnis velit et deserunt velit praesentium. Dolores eius dolores possimus. Ratione ipsum accusamus dolor facere."
+        },
+        "triangulo_de_sinalização_em_bom_estado": {
+          "resposta": true,
+          "obs": "Ut distinctio omnis voluptatem sequi nesciunt blanditiis facere enim doloribus. Ullam facilis non ab. Sunt ullam sed mollitia. Ut voluptas officiis sint corrupti rerum vitae eum. Cupiditate omnis perferendis id omnis quae. Facere sint consectetur tempore."
+        },
+        "chave_de_roda_e_cabo_de_força": {
+          "resposta": true,
+          "obs": "Ducimus praesentium voluptas quo est. Cumque mollitia eum ratione fugit. Eum amet atque autem porro earum."
+        },
+        "veiculo_lubrificado": {
+          "resposta": false,
+          "obs": "Ullam eos harum aut et. Eum a quia molestiae necessitatibus adipisci et sed culpa voluptas. Est voluptas excepturi. Similique atque eum. Sed cumque iusto."
+        },
+        "freios_regulados": {
+          "resposta": true,
+          "obs": "Dolorum alias sunt est voluptatem provident. Et eius harum harum quia omnis molestiae. Soluta nisi eligendi molestiae."
+        },
+        "documento_obrigatorio_em_dia": {
+          "resposta": true
+        },
+        "manual_do_veiculo_em_bom_estado": {
+          "resposta": false,
+          "obs": "Et aperiam delectus vel. Nihil ea nam voluptatem ex dolores officia. Ab dolorem consequatur numquam odit aut ea dolorem corrupti. Animi voluptas similique."
+        },
+        "habitacao_do_condutor_em_dia": {
+          "resposta": true
+        },
+        "cartao_ANTT_em_dia": {
+          "resposta": false
+        },
+        "adesivo_ANTT_em_bom_estado": {
+          "resposta": false,
+          "obs": "Laboriosam in temporibus laudantium. Sit qui et ut id sapiente dolore dolorem officiis. Eveniet quos rem vel sit sequi qui tempora. Repellendus assumenda laborum modi nobis neque. Ut unde fugit minima voluptatibus aspernatur quia. Consequuntur quis et ratione ad."
+        },
+        "pintura_tara_em_bom_estado": {
+          "resposta": true,
+          "obs": "Quo ut dolorem nihil aut quae a fugiat sed assumenda. Recusandae aut est. Delectus non cumque amet fugit voluptatem. Doloremque dolor eligendi. Voluptatem quia dolorem provident voluptas dolores rerum corrupti."
+        },
+        "tacografo_funcionando_e_em_bom_estado": {
+          "resposta": false,
+          "obs": "Consectetur sint qui id reiciendis labore voluptas veritatis. Sed qui assumenda ea. Soluta quia unde debitis rerum suscipit quo neque. Asperiores libero iusto ab quasi consequuntur sequi. Nostrum at nam debitis. Et ut non."
+        },
+        "disco_de_tacografo_substituido": {
+          "resposta": true,
+          "obs": "Libero reiciendis nihil. Cumque reiciendis eveniet sed et nihil commodi voluptas dolores hic. Vero temporibus ipsam sit nihil perspiciatis. Atque expedita beatae eligendi velit incidunt."
+        },
+        "certificado_de_aferição_em_dia": {
+          "resposta": true
+        },
+        "_id": "644b28b5a49f24e176e7f812",
+        "data_verificacao": "2022-05-10T16:44:13.902Z",
+        "Oid_veiculo": {
+          "_id": "644b28b5a49f24e176e7f77a",
+          "placa": "ABC1234",
+          "marca": "id quas",
+          "modelo": "reprehenderit consequatur",
+          "ano": 2728,
+          "renavan": "55555555555",
+          "vencimento_ipva": "2023-12-06T03:19:13.309Z",
+          "km_atual": 0,
+          "ativo": true
+        },
+        "Oid_motorista": {
+          "endereco": {
+            "logradouro": "Santos Rodovia",
+            "numero": "6765",
+            "cep": "76982-136",
+            "bairro": "Borders",
+            "cidade": "Município de Jemima de Nossa Senhora",
+            "estado": "RO",
+            "complemento": "Suite 170"
+          },
+          "cnh": {
+            "numero": "3333333333",
+            "categoria": "AE",
+            "vencimento": "2024-02-18T18:08:10.809Z"
+          },
+          "_id": "644b28b5a49f24e176e7f70f",
+          "nome": "Adao Martins",
+          "cpf": "064.779.292-36",
+          "rg": "845902838",
+          "data_nascimento": "2022-05-02T11:21:27.402Z",
+          "foto_pessoa": ".jpg",
+          "nivel": 3,
+          "telefone": "(20) 39120-5949",
+          "observacao": "",
+          "ativo": true,
+          "email": "adaomartins6@email.com",
+          "__v": 0
+        },
+        "ativo": true
+      },
+      {
+        "veiculo_lavado": {
+          "resposta": true,
+          "obs": "Omnis perferendis nihil qui error tenetur. Voluptas iure consequatur sed nihil ducimus illo. Sunt sit est. Autem quaerat sit id vel. Pariatur voluptatem modi minima iste. Est quo dolorum dolorum."
+        },
+        "lataria_amassada": {
+          "resposta": false,
+          "obs": "Eius saepe qui eum illo ab et reprehenderit laudantium aut. Dolorem nemo sunt id hic et quis modi in minima. Qui sed nulla eum officiis tempora aut.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2",
+            "Imagem 3"
+          ]
+        },
+        "riscados_pintura": {
+          "resposta": false,
+          "obs": "Quae provident sint facere et alias dolor qui cumque. Sit beatae autem et nobis ullam pariatur maxime atque et. Accusamus quo itaque et voluptas voluptatem quo. Vel nam ab sit sint. Et quae a magni dolores architecto corrupti voluptatem. Illo aut quia vel ut dolor alias eos in.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2"
+          ]
+        },
+        "bau_bom_estado": {
+          "resposta": false,
+          "obs": "Laboriosam expedita ducimus voluptate dignissimos nihil officiis qui. Eius nulla accusamus velit vel sit eum velit et ea. Distinctio omnis corporis id voluptatum. Corporis quod ut nam omnis voluptatem a. Qui ipsam id rerum. Illo omnis sed laboriosam quos adipisci repellat aut.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2"
+          ]
+        },
+        "faixas_refletivas_bom_estado": {
+          "resposta": false,
+          "obs": "Tenetur quibusdam impedit doloremque aut sunt. Illum sed repellendus excepturi ipsam. Nihil omnis id. Est voluptates non a. Pariatur impedit dolorum quasi.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2",
+            "Imagem 3",
+            "Imagem 4",
+            "Imagem 5"
+          ]
+        },
+        "farol_funcionando": {
+          "resposta": true,
+          "obs": "Error magnam in. Qui tenetur ipsa. Rem similique sit aut."
+        },
+        "luz_alta_funcionando": {
+          "resposta": false,
+          "obs": "Aut harum quas alias ut. Est et porro voluptatem laudantium aspernatur repudiandae perspiciatis a aperiam. Numquam enim dolorem voluptas autem. Debitis quae facere itaque neque quam sunt."
+        },
+        "meia_luz_funcionando": {
+          "resposta": false,
+          "obs": "Doloribus totam iusto quia vero dolorem qui ut. Et et eaque ipsam repellat iure consequatur autem animi assumenda. Pariatur fuga id quia."
+        },
+        "setas_funcionando": {
+          "resposta": false,
+          "obs": "Porro ut voluptatibus possimus nostrum modi voluptatem. Dolor eligendi occaecati. Dicta magnam expedita nobis porro et delectus."
+        },
+        "lanternas_laterias_funcionando": {
+          "resposta": true,
+          "obs": "Autem non consequatur et quos eligendi quia consequatur soluta. Sit est iusto vitae quae. Deserunt ea officia est velit aut exercitationem. Eum omnis dolore."
+        },
+        "lanterna_traseira_funcionando": {
+          "resposta": true,
+          "obs": "Aut ab quia natus error nobis molestiae nisi. Voluptatem atque dolorum tempora. Et assumenda dolorem vel. Omnis est non dignissimos ut dolores beatae molestiae explicabo."
+        },
+        "luz_freio_funcionando": {
+          "resposta": false,
+          "obs": "Et explicabo et cumque. Laboriosam ab distinctio incidunt. Dicta nihil hic."
+        },
+        "pneus_calibrados": {
+          "resposta": true,
+          "obs": "Amet neque dolor a. Dolor ipsum non et. Ratione non magnam dicta."
+        },
+        "pneus_carecas": {
+          "resposta": true,
+          "obs": "Eos dolorem beatae mollitia inventore esse tempora enim aut. Ducimus sed suscipit molestiae consequatur atque a. Odit quidem libero dolor et velit.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2",
+            "Imagem 3"
+          ]
+        },
+        "pneu_estepe_calibrado": {
+          "resposta": true,
+          "obs": "Est accusamus quo aliquam amet quasi earum est facilis sapiente. Harum nisi sequi occaecati magni rerum qui eius placeat alias. Quae et et rerum. Ab iste ut."
+        },
+        "troca_oleo_em_dia": {
+          "resposta": false
+        },
+        "agua_radiador_conferida": {
+          "resposta": false,
+          "obs": "Recusandae tenetur tempora ad non dolores odio sint. Voluptas error quo eum totam dolorem dolores. Et fugiat omnis nulla omnis ab hic modi laudantium sit. Corrupti nihil neque tempore perferendis laborum at."
+        },
+        "macaco_em_bom_estado": {
+          "resposta": true,
+          "obs": "Repudiandae accusamus facilis non ipsam ea qui mollitia in repellendus. Qui est ut dolorem et. Ut dolorem nesciunt error mollitia nostrum nisi quas sit."
+        },
+        "triangulo_de_sinalização_em_bom_estado": {
+          "resposta": true,
+          "obs": "Quo veritatis repellat magni explicabo similique. Ut amet nobis omnis eligendi explicabo corporis optio. Qui et ut nulla in accusamus eum aliquam laudantium. Accusantium aut non vero. Neque molestiae enim et unde doloremque. Cum ullam tempore dolore reprehenderit fuga autem quaerat."
+        },
+        "chave_de_roda_e_cabo_de_força": {
+          "resposta": false,
+          "obs": "Inventore nulla excepturi est fuga corporis quod necessitatibus ut. Ipsa possimus nihil dolor odit at sapiente non. Quod culpa veritatis. Repudiandae impedit ut. Et aut saepe et debitis rerum et tempore."
+        },
+        "veiculo_lubrificado": {
+          "resposta": false,
+          "obs": "Et provident delectus quia eligendi sed aut possimus aut. Tempora ducimus velit. Odit dolor sit alias eos excepturi."
+        },
+        "freios_regulados": {
+          "resposta": true,
+          "obs": "Repellendus sunt error in nobis aut non. Repellendus nam in totam similique voluptas tempora debitis quaerat. Aut sit maxime saepe ipsum saepe suscipit repellendus modi non. Sed assumenda cupiditate assumenda velit fuga similique odit. Omnis pariatur optio possimus aspernatur vero dolores qui provident. Consequatur voluptates repellat sit."
+        },
+        "documento_obrigatorio_em_dia": {
+          "resposta": true
+        },
+        "manual_do_veiculo_em_bom_estado": {
+          "resposta": true,
+          "obs": "Eos rerum at facilis quos eum neque nulla. Quo et blanditiis. Quia facere aut rem. Eum amet vitae."
+        },
+        "habitacao_do_condutor_em_dia": {
+          "resposta": false
+        },
+        "cartao_ANTT_em_dia": {
+          "resposta": true
+        },
+        "adesivo_ANTT_em_bom_estado": {
+          "resposta": false,
+          "obs": "Id possimus in error voluptatem vero omnis earum sit veniam. Quidem quo fugit expedita voluptatem fugiat officiis tempore. Similique exercitationem officia nobis voluptates. Accusamus quas qui debitis vitae."
+        },
+        "pintura_tara_em_bom_estado": {
+          "resposta": true,
+          "obs": "Ratione magnam quia vel ut sequi beatae. Laudantium officia aspernatur non ex est voluptatem dignissimos. Saepe sapiente dolor est dolor ut ut consequatur quibusdam sed. Aliquam sed molestiae ullam ad atque. Laudantium sit qui optio."
+        },
+        "tacografo_funcionando_e_em_bom_estado": {
+          "resposta": false,
+          "obs": "Fuga culpa qui sed iure velit. Et odit praesentium ut itaque. Provident placeat et atque dignissimos sit facilis quo sunt."
+        },
+        "disco_de_tacografo_substituido": {
+          "resposta": true,
+          "obs": "Recusandae dolor voluptate. Pariatur ut voluptatem explicabo officiis doloribus asperiores molestiae modi ab. Incidunt praesentium tempora et. Commodi doloremque non et."
+        },
+        "certificado_de_aferição_em_dia": {
+          "resposta": true
+        },
+        "_id": "644b28b5a49f24e176e7f814",
+        "data_verificacao": "2022-06-22T10:00:33.915Z",
+        "Oid_veiculo": {
+          "_id": "644b28b5a49f24e176e7f76a",
+          "placa": "ABC1234",
+          "marca": "quia delectus",
+          "modelo": "et debitis",
+          "ano": 3578,
+          "renavan": "66666666666",
+          "vencimento_ipva": "2023-11-15T07:05:47.127Z",
+          "km_atual": 0,
+          "ativo": true
+        },
+        "Oid_motorista": {
+          "endereco": {
+            "logradouro": "Batista Viela",
+            "numero": "7463",
+            "cep": "76982-136",
+            "bairro": "Bedfordshire",
+            "cidade": "Braga do Descoberto",
+            "estado": "RO",
+            "complemento": "Suite 886"
+          },
+          "cnh": {
+            "numero": "4444444444",
+            "categoria": "AB",
+            "vencimento": "2024-01-15T08:48:58.508Z"
+          },
+          "_id": "644b28b5a49f24e176e7f6ff",
+          "nome": "Cyntia Carvalho",
+          "cpf": "064.779.292-36",
+          "rg": "918796457",
+          "data_nascimento": "2022-06-07T07:36:40.335Z",
+          "foto_pessoa": ".jpg",
+          "nivel": 3,
+          "telefone": "+55 (54) 8519-3622",
+          "observacao": "",
+          "ativo": true,
+          "email": "cyntiacarvalho94@outlook.com",
+          "__v": 0
+        },
+        "ativo": false
+      },
+      {
+        "veiculo_lavado": {
+          "resposta": true,
+          "obs": "Nihil fugit sunt qui dolor aperiam aspernatur aperiam aut voluptas. Veniam at voluptatem id et magnam animi mollitia nemo commodi. Consequatur natus necessitatibus occaecati. Rerum et voluptatibus occaecati voluptas minus nihil totam excepturi."
+        },
+        "lataria_amassada": {
+          "resposta": false,
+          "obs": "Magni doloremque quae et officia commodi ipsa aut iure. Atque in aut non minus non et eveniet praesentium et. Et quasi ut sunt consequuntur. Illum culpa reiciendis harum a occaecati. Hic cupiditate sed nobis harum in dolores eaque ipsam ipsa. Ut id alias eius nisi ut modi quia.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2",
+            "Imagem 3"
+          ]
+        },
+        "riscados_pintura": {
+          "resposta": true,
+          "obs": "Temporibus quis et qui saepe aut rerum culpa natus. Quia perferendis sed quod asperiores maxime et quo. Dolorum molestias et nihil maxime iste iste odit aut. Est ab reprehenderit et vel vitae. Deserunt totam laboriosam voluptates dolor enim id laudantium dolores qui. A consequuntur corrupti ut sit et ipsum tenetur earum.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2",
+            "Imagem 3",
+            "Imagem 4"
+          ]
+        },
+        "bau_bom_estado": {
+          "resposta": false,
+          "obs": "Sapiente sit veniam ducimus repudiandae. Fugiat non at ducimus ratione eum dolor. Libero quisquam amet rerum provident blanditiis molestias sapiente iure. Tempora porro sed explicabo occaecati placeat inventore nemo harum.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2"
+          ]
+        },
+        "faixas_refletivas_bom_estado": {
+          "resposta": false,
+          "obs": "Iure sed ut doloremque aut distinctio earum. Quidem possimus autem eos nihil et alias quis. Dolore ea in natus et libero molestias voluptate quibusdam. Qui nemo nobis dolorem animi quia ut ex dolore. Dicta aliquam tempora vero enim quo.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2",
+            "Imagem 3"
+          ]
+        },
+        "farol_funcionando": {
+          "resposta": true,
+          "obs": "Doloribus et nemo vel. Id impedit quo delectus ad sunt quae animi omnis. Sint vel quos atque. Excepturi totam quia. Qui aut nulla ea. Aut itaque dolore et ex nisi modi blanditiis."
+        },
+        "luz_alta_funcionando": {
+          "resposta": false,
+          "obs": "Vitae quia vel inventore quas minus. Quod et laudantium. Doloribus qui ipsam ut cum autem vel cumque. Animi in qui dolorem ad inventore sint. Eveniet voluptas sint et rerum soluta."
+        },
+        "meia_luz_funcionando": {
+          "resposta": true,
+          "obs": "Et dignissimos nemo nisi quaerat. Velit occaecati necessitatibus qui vero. Est quisquam magnam odit quo ipsa sunt. Ea aspernatur amet commodi nulla facilis dolore occaecati."
+        },
+        "setas_funcionando": {
+          "resposta": false,
+          "obs": "Voluptatibus vitae porro libero inventore. Quo qui ipsam illo aut dolor fugit voluptatum. Veritatis iste aliquam deleniti et. Iusto aut quis modi voluptatibus qui temporibus ex voluptatem. Quam quia sequi eum voluptatem ab quo consequatur rerum."
+        },
+        "lanternas_laterias_funcionando": {
+          "resposta": true,
+          "obs": "Nobis quod dolorum. Architecto dolor aut ut odio distinctio labore ad nam. Et voluptatem corrupti repudiandae. Dolor autem sit."
+        },
+        "lanterna_traseira_funcionando": {
+          "resposta": false,
+          "obs": "Incidunt blanditiis est molestiae explicabo et earum. Natus odit dolor praesentium voluptas totam reprehenderit. Aut recusandae quas animi aut vel. Quis et ipsum quia quia pariatur nisi. Pariatur quos ea omnis in."
+        },
+        "luz_freio_funcionando": {
+          "resposta": true,
+          "obs": "Saepe assumenda tempora omnis quibusdam sed aut. Quia rerum excepturi qui est placeat porro possimus aut. Expedita corporis totam eius consectetur earum ab ut et. Dolorum rem eum. Rerum voluptate illum voluptatem."
+        },
+        "pneus_calibrados": {
+          "resposta": false,
+          "obs": "Sequi ipsum exercitationem quia dolorum rerum. Ipsa odio odio sit reiciendis et. In eum sunt explicabo. Ea nostrum sunt ea laboriosam. Dolore nostrum at architecto facere in laboriosam sed omnis. Est cumque rerum eaque veritatis in voluptatem nobis ea."
+        },
+        "pneus_carecas": {
+          "resposta": false,
+          "obs": "Quibusdam dignissimos voluptatibus autem hic maxime nihil. Pariatur quaerat a. Pariatur aut quod.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2",
+            "Imagem 3",
+            "Imagem 4",
+            "Imagem 5",
+            "Imagem 6",
+            "Imagem 7",
+            "Imagem 8"
+          ]
+        },
+        "pneu_estepe_calibrado": {
+          "resposta": true,
+          "obs": "Rerum voluptate porro unde. Minima id dolore. Eaque dolores id. Fuga esse animi necessitatibus dolores sint architecto qui et quidem. Est totam omnis sit ab ut quis. Aut perspiciatis aut similique at assumenda nihil hic."
+        },
+        "troca_oleo_em_dia": {
+          "resposta": true
+        },
+        "agua_radiador_conferida": {
+          "resposta": false,
+          "obs": "Et odit ut. Voluptatem ipsa facere quia aut doloribus sequi vel voluptates voluptas. Reiciendis ducimus sed illo voluptatem consectetur in sit impedit et. Dolorem quos corrupti. Rerum ut id qui expedita quaerat vero accusamus quo. Fugiat voluptatem molestiae ratione laboriosam sit enim."
+        },
+        "macaco_em_bom_estado": {
+          "resposta": false,
+          "obs": "Quis iusto eum quo qui rem. Eos voluptatem quia enim occaecati voluptates repudiandae omnis aut. Qui illo ea vero et accusamus molestiae modi. Qui quasi est. Dolores sunt rerum id numquam et exercitationem consequatur molestiae rem. Deleniti voluptatem atque sapiente quo."
+        },
+        "triangulo_de_sinalização_em_bom_estado": {
+          "resposta": true,
+          "obs": "Et nulla eos et praesentium enim error sequi. Et esse voluptatem non reiciendis qui est fugiat voluptates et. Blanditiis sunt cupiditate aut adipisci."
+        },
+        "chave_de_roda_e_cabo_de_força": {
+          "resposta": false,
+          "obs": "Nobis quos est quam. Fugit et et voluptas rerum ad corporis repudiandae consequuntur cumque. Quae dicta omnis dolores minus voluptatem in. Cumque ipsum consequatur mollitia et. Aut officiis non quod voluptatem aliquam. Tempora impedit dolores architecto sed quia."
+        },
+        "veiculo_lubrificado": {
+          "resposta": true,
+          "obs": "Quos ea cum est. Fuga eum ab qui natus veritatis qui quia qui. Quia deleniti est ullam veritatis. Saepe soluta tempora facilis minima voluptates voluptas ea. Ipsa reiciendis amet."
+        },
+        "freios_regulados": {
+          "resposta": false,
+          "obs": "Assumenda impedit blanditiis accusantium. Quod sequi neque qui. Fugiat ipsa dolor vero cumque."
+        },
+        "documento_obrigatorio_em_dia": {
+          "resposta": true
+        },
+        "manual_do_veiculo_em_bom_estado": {
+          "resposta": false,
+          "obs": "Rerum in ipsa fugiat dolor est est unde. Laborum voluptates ipsum enim officia quia dicta atque dolorem ad. Placeat qui itaque ab officia perspiciatis amet et. Repellat est animi quaerat voluptas in ipsa aliquid. In sunt et. Et sit molestiae consequatur vitae ut enim."
+        },
+        "habitacao_do_condutor_em_dia": {
+          "resposta": true
+        },
+        "cartao_ANTT_em_dia": {
+          "resposta": false
+        },
+        "adesivo_ANTT_em_bom_estado": {
+          "resposta": true,
+          "obs": "Fugit animi alias. Quia ipsum dolor quia sunt distinctio. Eveniet modi minus dicta dolorem culpa. Unde corrupti accusantium aperiam corrupti et corporis repellat error iste. Est asperiores tenetur numquam quia."
+        },
+        "pintura_tara_em_bom_estado": {
+          "resposta": true,
+          "obs": "Aut et laudantium excepturi. Autem corrupti placeat eveniet magnam consequatur. A quis sit voluptatem nobis. Eius voluptatem ea non voluptates excepturi nihil numquam."
+        },
+        "tacografo_funcionando_e_em_bom_estado": {
+          "resposta": true,
+          "obs": "Consectetur dolor perferendis doloremque quidem assumenda impedit omnis eum consequatur. Deleniti occaecati vitae molestiae earum assumenda hic expedita nihil ut. Veniam quia accusantium molestiae ullam quod."
+        },
+        "disco_de_tacografo_substituido": {
+          "resposta": true,
+          "obs": "Rerum autem ea ipsa non. Dolore ea fuga aliquid id. Et non eius eius quo et beatae animi. Est asperiores dolorum est id et. Alias quaerat at et ea iusto qui nemo distinctio. Molestiae qui eum veniam."
+        },
+        "certificado_de_aferição_em_dia": {
+          "resposta": false
+        },
+        "_id": "644b28b5a49f24e176e7f816",
+        "data_verificacao": "2023-01-13T05:32:16.425Z",
+        "Oid_veiculo": {
+          "_id": "644b28b5a49f24e176e7f754",
+          "placa": "ABC1234",
+          "marca": "sint quasi",
+          "modelo": "veritatis exercitationem",
+          "ano": 2277,
+          "renavan": "11111111111",
+          "vencimento_ipva": "2023-11-28T18:12:35.403Z",
+          "km_atual": 0,
+          "ativo": true
+        },
+        "Oid_motorista": {
+          "endereco": {
+            "logradouro": "Angelita Alameda",
+            "numero": "7071",
+            "cep": "76982-136",
+            "bairro": "Buckinghamshire",
+            "cidade": "Velha Aparecida de Nossa Senhora",
+            "estado": "RO",
+            "complemento": "Apt. 591"
+          },
+          "cnh": {
+            "numero": "5555555555",
+            "categoria": "AE",
+            "vencimento": "2023-08-02T11:51:37.775Z"
+          },
+          "_id": "644b28b4a49f24e176e7f6f7",
+          "nome": "Joceli Oliveira",
+          "cpf": "064.779.292-36",
+          "rg": "666623198",
+          "data_nascimento": "2023-04-19T20:10:31.239Z",
+          "foto_pessoa": ".jpg",
+          "nivel": 4,
+          "telefone": "(62) 66579-6484",
+          "observacao": "",
+          "ativo": true,
+          "email": "jocelioliveira88@outlook.com",
+          "__v": 0
+        },
+        "ativo": false
+      },
+      {
+        "veiculo_lavado": {
+          "resposta": true,
+          "obs": "Cumque consequatur magnam deserunt maiores est. Non dolore quis ipsa cupiditate. Vel dolor hic aspernatur quis dolore exercitationem quia. Repudiandae dolor qui eos voluptatem. Qui saepe sit sint occaecati eos."
+        },
+        "lataria_amassada": {
+          "resposta": false,
+          "obs": "Non eos voluptate. Qui porro mollitia aut et quia voluptates et dicta occaecati. Laudantium laborum quam ipsum esse. Odit assumenda esse inventore.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2",
+            "Imagem 3"
+          ]
+        },
+        "riscados_pintura": {
+          "resposta": false,
+          "obs": "Earum expedita vel ut dolores et culpa. Ex nihil iste. Minus velit voluptatem quis atque. Voluptatem neque omnis quis. Ullam optio quisquam dolores at aperiam cupiditate ea.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2",
+            "Imagem 3",
+            "Imagem 4",
+            "Imagem 5",
+            "Imagem 6"
+          ]
+        },
+        "bau_bom_estado": {
+          "resposta": false,
+          "obs": "Velit sit nisi labore ea nostrum. Et iure voluptatem et at. Reprehenderit excepturi optio aperiam nisi voluptatum. Perspiciatis ut numquam qui commodi aspernatur et. Blanditiis rerum quis ab est excepturi aliquam aut et. Placeat eaque sit at et nihil quo aut fugiat.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2",
+            "Imagem 3",
+            "Imagem 4"
+          ]
+        },
+        "faixas_refletivas_bom_estado": {
+          "resposta": false,
+          "obs": "Corrupti ab ipsa quis accusantium quod. Non consequatur est recusandae qui enim. Sint earum qui perspiciatis impedit ab voluptatem expedita dolorum.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2",
+            "Imagem 3",
+            "Imagem 4",
+            "Imagem 5"
+          ]
+        },
+        "farol_funcionando": {
+          "resposta": false,
+          "obs": "Atque quidem quia sit aut commodi illum laborum et. Qui qui rem dolores qui. Voluptatibus enim itaque natus saepe voluptatem iste aut numquam voluptatibus."
+        },
+        "luz_alta_funcionando": {
+          "resposta": false,
+          "obs": "Et facere rerum. Labore inventore dignissimos laudantium cupiditate. Quibusdam quam perspiciatis vel suscipit quod vitae. Sit sit eaque nesciunt amet ea non suscipit temporibus placeat."
+        },
+        "meia_luz_funcionando": {
+          "resposta": false,
+          "obs": "Sit molestias autem molestiae consequatur sint dolorem ut similique. Molestiae perferendis occaecati. Ea nesciunt voluptatibus perferendis. Quasi vero nobis occaecati hic. Iste ipsum eligendi cum."
+        },
+        "setas_funcionando": {
+          "resposta": true,
+          "obs": "Aut non velit aliquid beatae soluta ducimus quibusdam illo. Quia sequi temporibus et ratione et. Quis nostrum consequatur deserunt voluptatem libero. Velit quis eos assumenda dolores. Odio et aut non unde inventore laboriosam unde consectetur nobis. Rem est sed commodi eos quod."
+        },
+        "lanternas_laterias_funcionando": {
+          "resposta": true,
+          "obs": "Dolorum ex consequatur consectetur. Nihil voluptatem quos itaque aut est et. Facere repellat voluptatem nulla. Vel expedita et ducimus. Sunt ratione sit rem. Atque corrupti laudantium maxime quia illo occaecati nesciunt."
+        },
+        "lanterna_traseira_funcionando": {
+          "resposta": true,
+          "obs": "Consequatur culpa odit sed odio mollitia dicta. Rerum illo voluptatem exercitationem accusamus non. Vero possimus est ut possimus nihil quis. Quae earum sunt enim perferendis odit dolorem eum excepturi blanditiis. Libero natus earum maxime magnam suscipit qui sint. Deserunt ut corrupti tempore vel blanditiis doloremque quisquam."
+        },
+        "luz_freio_funcionando": {
+          "resposta": true,
+          "obs": "Sint ut iusto voluptatem. Est expedita doloremque nostrum id vel magnam dolores. Rerum quia labore voluptas nulla ut ea non. Natus vitae quia consequatur excepturi a iusto distinctio adipisci earum. Ut culpa enim voluptatem illo quo. Rerum mollitia in sed dolore nemo."
+        },
+        "pneus_calibrados": {
+          "resposta": true,
+          "obs": "Distinctio excepturi qui. Assumenda laboriosam ducimus. Reprehenderit nihil inventore blanditiis reprehenderit non aut dolorum et amet. Alias earum adipisci et fugit nisi aperiam ullam. Laudantium dolore qui in."
+        },
+        "pneus_carecas": {
+          "resposta": true,
+          "obs": "Sit qui ab est qui. Nemo nulla optio. Quia sed non eos sit exercitationem veniam temporibus fugit consequuntur. Sit sit officia dolorem in non et aut.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2",
+            "Imagem 3",
+            "Imagem 4"
+          ]
+        },
+        "pneu_estepe_calibrado": {
+          "resposta": false,
+          "obs": "Laboriosam nemo possimus vero dolores. Rerum ab qui assumenda aspernatur. Dignissimos impedit assumenda quis beatae."
+        },
+        "troca_oleo_em_dia": {
+          "resposta": true
+        },
+        "agua_radiador_conferida": {
+          "resposta": false,
+          "obs": "Consectetur et voluptatem atque aut unde ipsa iure. Numquam quia neque laborum consectetur nihil assumenda. Nobis illum rerum et tempora molestiae vel. Quo eius ut quos velit et."
+        },
+        "macaco_em_bom_estado": {
+          "resposta": true,
+          "obs": "Architecto dicta perferendis impedit eius dolor. Provident non voluptatem impedit dolorem. Saepe odio totam quasi est officiis debitis libero suscipit repudiandae."
+        },
+        "triangulo_de_sinalização_em_bom_estado": {
+          "resposta": false,
+          "obs": "Possimus soluta consequatur vitae numquam error accusantium. Provident et facere sapiente et aspernatur et autem autem. Veniam architecto laudantium velit deserunt sed sit corporis mollitia."
+        },
+        "chave_de_roda_e_cabo_de_força": {
+          "resposta": false,
+          "obs": "Temporibus temporibus nihil consequuntur ullam doloremque mollitia porro unde. Consequatur dolor iure sapiente nesciunt ipsam consequatur rem. Expedita qui officiis consectetur aliquid. Fugiat quas ut. Et consequuntur architecto quia quis similique officiis qui. Dolor temporibus ut quis impedit consequatur temporibus ipsa."
+        },
+        "veiculo_lubrificado": {
+          "resposta": false,
+          "obs": "Harum blanditiis sed. Aspernatur quisquam ea. Repellendus omnis occaecati dolor accusantium corporis ut voluptates. Consequatur facere hic consectetur ut a quaerat occaecati."
+        },
+        "freios_regulados": {
+          "resposta": true,
+          "obs": "Culpa voluptatem sed. Sint aut eos asperiores assumenda rerum accusamus quod adipisci. Corporis qui ab exercitationem atque soluta autem."
+        },
+        "documento_obrigatorio_em_dia": {
+          "resposta": true
+        },
+        "manual_do_veiculo_em_bom_estado": {
+          "resposta": true,
+          "obs": "Porro dolores saepe doloremque atque in quidem. Aperiam iure soluta nihil ad. Neque libero repellendus aperiam quo qui quidem quaerat aperiam. Unde culpa nostrum non aut. Vitae vel et et dolor id eaque consectetur laborum quam. Cum similique omnis qui fugit eum ex."
+        },
+        "habitacao_do_condutor_em_dia": {
+          "resposta": false
+        },
+        "cartao_ANTT_em_dia": {
+          "resposta": true
+        },
+        "adesivo_ANTT_em_bom_estado": {
+          "resposta": false,
+          "obs": "Voluptas quia rem esse eligendi eius. Repellendus doloribus quae mollitia. Et quod cupiditate libero placeat sed aspernatur hic. Reprehenderit rerum et consequuntur ipsa."
+        },
+        "pintura_tara_em_bom_estado": {
+          "resposta": false,
+          "obs": "Qui qui ipsum dolorem amet velit adipisci ipsa sit. Eveniet id et nisi officiis porro eum. Quo alias ut error qui laborum libero alias illo deserunt. Voluptatem non voluptates libero voluptatem sit sunt dolorum voluptatem est."
+        },
+        "tacografo_funcionando_e_em_bom_estado": {
+          "resposta": false,
+          "obs": "Debitis molestias voluptatem dolores voluptatem maxime hic. Rem deserunt est est omnis totam. Sequi explicabo sint unde placeat iste sint. Et molestiae quos quia eaque doloremque ad necessitatibus occaecati harum. Accusamus consequatur quia optio cumque."
+        },
+        "disco_de_tacografo_substituido": {
+          "resposta": true,
+          "obs": "Rerum animi inventore aut aut ut porro dicta nam. Dolores reprehenderit ullam deleniti impedit facilis expedita. Placeat culpa sed aperiam."
+        },
+        "certificado_de_aferição_em_dia": {
+          "resposta": false
+        },
+        "_id": "644b28b5a49f24e176e7f818",
+        "data_verificacao": "2022-05-10T11:20:54.014Z",
+        "Oid_veiculo": {
+          "_id": "644b28b5a49f24e176e7f772",
+          "placa": "ABC1234",
+          "marca": "non illum",
+          "modelo": "ut in",
+          "ano": 3313,
+          "renavan": "99999999999",
+          "vencimento_ipva": "2023-11-13T06:49:16.908Z",
+          "km_atual": 0,
+          "ativo": true
+        },
+        "Oid_motorista": {
+          "endereco": {
+            "logradouro": "Cassia Travessa",
+            "numero": "4803",
+            "cep": "76982-136",
+            "bairro": "Berkshire",
+            "cidade": "Avani do Norte",
+            "estado": "RO",
+            "complemento": "Apt. 473"
+          },
+          "cnh": {
+            "numero": "2222222222",
+            "categoria": "E",
+            "vencimento": "2023-12-30T02:37:02.079Z"
+          },
+          "_id": "644b28b4a49f24e176e7f6eb",
+          "nome": "Bruna Moreira",
+          "cpf": "064.779.292-36",
+          "rg": "635728648",
+          "data_nascimento": "2022-05-29T15:00:31.956Z",
+          "foto_pessoa": ".jpg",
+          "nivel": 1,
+          "telefone": "(10) 0416-6354",
+          "observacao": "",
+          "ativo": true,
+          "email": "brunamoreira18@email.com",
+          "__v": 0
+        },
+        "ativo": true
+      },
+      {
+        "veiculo_lavado": {
+          "resposta": true,
+          "obs": "Omnis maxime delectus labore neque quidem non. Molestiae sint aspernatur eius sed laborum quis dolore maxime. Alias voluptate iste atque quia aspernatur. Voluptates qui laudantium pariatur nihil omnis ut. Est voluptatem eum molestiae molestiae consequatur ex ea. Atque vero recusandae dolores labore quis quae cupiditate."
+        },
+        "lataria_amassada": {
+          "resposta": true,
+          "obs": "Sit culpa sequi accusamus id. Placeat ut repudiandae commodi dolor. Et consectetur sint nemo reiciendis.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2"
+          ]
+        },
+        "riscados_pintura": {
+          "resposta": true,
+          "obs": "Quibusdam aut eos aut molestias ut odit maiores nemo aut. Quibusdam non incidunt labore est et qui. Ullam ea atque eaque et praesentium est aut. Doloribus dolore distinctio alias quod omnis debitis.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2",
+            "Imagem 3"
+          ]
+        },
+        "bau_bom_estado": {
+          "resposta": false,
+          "obs": "Aspernatur quisquam rerum doloremque eveniet voluptas. Dignissimos ut cupiditate doloribus et. Et soluta et. Quod minima voluptas ipsam.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2",
+            "Imagem 3",
+            "Imagem 4"
+          ]
+        },
+        "faixas_refletivas_bom_estado": {
+          "resposta": false,
+          "obs": "Magnam quae sunt distinctio. Harum repudiandae quo numquam. Incidunt molestiae non excepturi et non aut dolore sunt. Quo quo iure perspiciatis earum autem nobis. Adipisci eius excepturi mollitia sunt. At aspernatur ut saepe omnis cupiditate recusandae sint aliquid.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2",
+            "Imagem 3",
+            "Imagem 4"
+          ]
+        },
+        "farol_funcionando": {
+          "resposta": true,
+          "obs": "Et quia illum dolores officiis. Atque veniam sed sit soluta dolor alias distinctio corporis. Nulla provident voluptatibus quod vel dignissimos aut aliquam. Distinctio et eos. Vero neque quod enim non. Facilis consequuntur aut aspernatur amet repudiandae."
+        },
+        "luz_alta_funcionando": {
+          "resposta": false,
+          "obs": "Eum laudantium eos aliquam. Sed et labore nam omnis vero est cupiditate voluptatem. Doloribus omnis omnis placeat laboriosam. Repellendus eos aliquam voluptatem quasi. Nesciunt cumque possimus occaecati voluptatibus deserunt distinctio praesentium."
+        },
+        "meia_luz_funcionando": {
+          "resposta": true,
+          "obs": "Aut qui ea perferendis sit ad deserunt. Voluptatem illum quod eius minima in dicta aut ut. Nihil voluptatum quia id id voluptas accusantium. Et veniam vitae est dolorem libero ipsa. Nesciunt animi ducimus officia dolores quibusdam nisi nobis iusto. Temporibus tempora rem expedita et ab eius quisquam vitae."
+        },
+        "setas_funcionando": {
+          "resposta": false,
+          "obs": "Eaque qui laudantium aspernatur reiciendis. Repellat incidunt aut esse. Qui velit deleniti et dolores. Iure exercitationem ab doloribus est. Temporibus commodi id a repudiandae quam corporis ratione iure eum."
+        },
+        "lanternas_laterias_funcionando": {
+          "resposta": true,
+          "obs": "Et et incidunt ullam velit. Aperiam est rem. Earum dignissimos vitae sint qui nobis recusandae cupiditate quasi. Tenetur consequatur et architecto et quisquam est. Blanditiis voluptate velit et odit alias."
+        },
+        "lanterna_traseira_funcionando": {
+          "resposta": true,
+          "obs": "Sunt magni odio. Quasi est et repellendus quibusdam architecto est tenetur. Iure et enim placeat blanditiis non accusamus placeat."
+        },
+        "luz_freio_funcionando": {
+          "resposta": true,
+          "obs": "Eos excepturi consectetur non distinctio itaque voluptatem repudiandae. Voluptas dolores voluptates iste aut sed accusamus iusto quo. Ea dolor ut et et corporis unde dolorem sequi. Eveniet eum explicabo et ab. Ipsa animi autem quo eaque aliquam laboriosam quae et."
+        },
+        "pneus_calibrados": {
+          "resposta": false,
+          "obs": "Est doloremque ut quia culpa deserunt dignissimos. Voluptas ut praesentium quia itaque voluptates. Expedita veritatis qui ut doloremque rerum. Consequatur voluptatem ut quod aut ut error. Non itaque ipsam molestiae sint deserunt. Accusamus voluptatem quod consequuntur numquam aut."
+        },
+        "pneus_carecas": {
+          "resposta": true,
+          "obs": "Dolorem quo non eligendi ab corrupti reprehenderit omnis dolores. Et qui sunt praesentium pariatur nesciunt vel quis. Necessitatibus et itaque facilis odit delectus voluptatem ut.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2",
+            "Imagem 3",
+            "Imagem 4"
+          ]
+        },
+        "pneu_estepe_calibrado": {
+          "resposta": false,
+          "obs": "Commodi repellat est libero et dicta et quis. Iure asperiores facilis impedit tempore vel incidunt esse architecto. Distinctio facere culpa omnis. Itaque non aut."
+        },
+        "troca_oleo_em_dia": {
+          "resposta": true
+        },
+        "agua_radiador_conferida": {
+          "resposta": true,
+          "obs": "Molestiae magnam nihil enim dolore sunt. Consequatur minima beatae. Quo qui dolorem accusamus fugiat corporis voluptates."
+        },
+        "macaco_em_bom_estado": {
+          "resposta": false,
+          "obs": "Aut eligendi incidunt ea nobis. Tempora accusantium fugiat ut. Saepe reiciendis rerum eaque suscipit. Repudiandae in vitae non et odit est eligendi."
+        },
+        "triangulo_de_sinalização_em_bom_estado": {
+          "resposta": true,
+          "obs": "Aut aspernatur velit laboriosam et. Sunt commodi quis et in voluptas eveniet. Magni dicta nam distinctio magnam magnam eos. Non assumenda ipsum dolorem veniam neque molestiae. Ut velit et deserunt quia. Tempora sit sunt pariatur voluptas."
+        },
+        "chave_de_roda_e_cabo_de_força": {
+          "resposta": false,
+          "obs": "Voluptas beatae sint architecto recusandae quos. Dignissimos eveniet atque est et. Consequuntur dolorum tempore dignissimos."
+        },
+        "veiculo_lubrificado": {
+          "resposta": false,
+          "obs": "Autem illo perspiciatis eum perferendis quibusdam. Sit nulla alias ut incidunt et consequuntur alias et ut. Et in cumque aut totam exercitationem aut tempore non recusandae. Praesentium aspernatur vel et mollitia enim."
+        },
+        "freios_regulados": {
+          "resposta": false,
+          "obs": "Et blanditiis fugit consectetur magnam veritatis. Quo eius veritatis cumque numquam a qui velit. Laboriosam dicta consectetur quo nihil atque. Corporis quae voluptatibus error placeat molestiae est."
+        },
+        "documento_obrigatorio_em_dia": {
+          "resposta": true
+        },
+        "manual_do_veiculo_em_bom_estado": {
+          "resposta": false,
+          "obs": "Consectetur enim qui. Est recusandae reiciendis quidem qui dicta. Aut sit omnis tempore. Dolores atque animi reiciendis saepe temporibus aut qui dolores ut. Cumque consequatur ullam sunt. Amet aspernatur qui tempore veniam."
+        },
+        "habitacao_do_condutor_em_dia": {
+          "resposta": true
+        },
+        "cartao_ANTT_em_dia": {
+          "resposta": true
+        },
+        "adesivo_ANTT_em_bom_estado": {
+          "resposta": true,
+          "obs": "Est adipisci aut. Et officia accusantium doloremque similique. Quod doloribus magni recusandae laboriosam enim voluptas minima ducimus quibusdam."
+        },
+        "pintura_tara_em_bom_estado": {
+          "resposta": true,
+          "obs": "Quia assumenda labore nihil tempora. Aperiam enim tempora. Est esse atque rem praesentium consequatur enim eum sint et. Possimus aut vero. Blanditiis dolorem et sint autem aut dicta nostrum et. Quis doloribus minus."
+        },
+        "tacografo_funcionando_e_em_bom_estado": {
+          "resposta": false,
+          "obs": "Rerum omnis rem consequuntur. Temporibus ipsam deserunt. Reiciendis ad veritatis est laboriosam et. Aut voluptate ut ut non id est facilis at. Laudantium occaecati blanditiis voluptatem laudantium error ut aperiam illum."
+        },
+        "disco_de_tacografo_substituido": {
+          "resposta": true,
+          "obs": "Blanditiis reprehenderit iure nisi delectus aut fugiat dolor voluptates illum. Facilis quis vel ut delectus illo natus exercitationem facere. Molestiae quasi sint iusto voluptas. Nisi numquam est rerum aut vero amet repudiandae repellat. Est velit et sit dolorem consequatur voluptates esse."
+        },
+        "certificado_de_aferição_em_dia": {
+          "resposta": true
+        },
+        "_id": "644b28b5a49f24e176e7f81a",
+        "data_verificacao": "2022-09-21T17:05:04.717Z",
+        "Oid_veiculo": {
+          "_id": "644b28b5a49f24e176e7f764",
+          "placa": "ABC1234",
+          "marca": "expedita fuga",
+          "modelo": "fugit dolores",
+          "ano": 3585,
+          "renavan": "66666666666",
+          "vencimento_ipva": "2023-07-15T02:15:15.407Z",
+          "km_atual": 0,
+          "ativo": true
+        },
+        "Oid_motorista": {
+          "endereco": {
+            "logradouro": "Batista Viela",
+            "numero": "7463",
+            "cep": "76982-136",
+            "bairro": "Bedfordshire",
+            "cidade": "Braga do Descoberto",
+            "estado": "RO",
+            "complemento": "Suite 886"
+          },
+          "cnh": {
+            "numero": "4444444444",
+            "categoria": "AB",
+            "vencimento": "2024-01-15T08:48:58.508Z"
+          },
+          "_id": "644b28b5a49f24e176e7f6ff",
+          "nome": "Cyntia Carvalho",
+          "cpf": "064.779.292-36",
+          "rg": "918796457",
+          "data_nascimento": "2022-06-07T07:36:40.335Z",
+          "foto_pessoa": ".jpg",
+          "nivel": 3,
+          "telefone": "+55 (54) 8519-3622",
+          "observacao": "",
+          "ativo": true,
+          "email": "cyntiacarvalho94@outlook.com",
+          "__v": 0
+        },
+        "ativo": true
+      },
+      {
+        "veiculo_lavado": {
+          "resposta": true,
+          "obs": "Magni omnis explicabo excepturi rerum quibusdam iure sint. Quis sequi tenetur et assumenda nihil incidunt qui a eligendi. Esse ut temporibus. Dolores non quia distinctio quasi adipisci."
+        },
+        "lataria_amassada": {
+          "resposta": false,
+          "obs": "Et perspiciatis ex eum. Sapiente sed nam quasi aliquam. Nihil rerum omnis sequi dolore est soluta.",
+          "fotos": [
+            "Imagem 1"
+          ]
+        },
+        "riscados_pintura": {
+          "resposta": false,
+          "obs": "Animi distinctio delectus neque explicabo voluptates consequatur aut omnis. Fugit at est in sunt consectetur asperiores eveniet provident. Ea tempora exercitationem saepe necessitatibus dolorum et. Veniam sapiente animi fuga tempore.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2",
+            "Imagem 3",
+            "Imagem 4"
+          ]
+        },
+        "bau_bom_estado": {
+          "resposta": false,
+          "obs": "Laborum aut natus. Ab nisi a voluptatibus repudiandae. Aut voluptatem explicabo qui mollitia.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2"
+          ]
+        },
+        "faixas_refletivas_bom_estado": {
+          "resposta": true,
+          "obs": "Rerum vitae consectetur. Repudiandae officiis voluptatum non est cupiditate dolores illo omnis asperiores. Facilis nam soluta in voluptate omnis non.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2",
+            "Imagem 3"
+          ]
+        },
+        "farol_funcionando": {
+          "resposta": true,
+          "obs": "Aspernatur et dolore autem dolorum ut deserunt et eveniet. Voluptatibus non in natus voluptatum consequatur animi dolore. Sit qui velit velit corporis nihil aut. Quos alias est tenetur nemo delectus velit."
+        },
+        "luz_alta_funcionando": {
+          "resposta": true,
+          "obs": "Repellat est ipsam quia recusandae. Nulla ut odio aspernatur nostrum eaque. Facere possimus eos non id iure atque. Dolorem eum et facilis ipsum ut. Provident esse cupiditate unde quisquam."
+        },
+        "meia_luz_funcionando": {
+          "resposta": false,
+          "obs": "Quia delectus illum facilis. Sit officia consequatur exercitationem odit distinctio dolor aut debitis. Qui dolores vitae consectetur voluptatum laborum eum quasi. Reiciendis eum voluptatem eos ut quas doloremque quis. Et maxime iusto a ullam ipsum et."
+        },
+        "setas_funcionando": {
+          "resposta": true,
+          "obs": "Eaque aperiam harum. Repellat quisquam esse sit. Soluta facere quis quos esse ea fuga excepturi quae. Blanditiis quibusdam voluptatem exercitationem dolorem maxime. Inventore at in."
+        },
+        "lanternas_laterias_funcionando": {
+          "resposta": false,
+          "obs": "Quam saepe occaecati numquam sunt vel perspiciatis repudiandae dolor. Enim sed quasi omnis. Voluptas dolore enim sint omnis nulla eum ipsa sit accusamus. Quam expedita aut deleniti recusandae esse. Eius alias tempore praesentium voluptatem doloribus odit occaecati eum vel."
+        },
+        "lanterna_traseira_funcionando": {
+          "resposta": true,
+          "obs": "Aperiam est quasi in at asperiores. Qui repellendus quas. Architecto exercitationem quis molestiae voluptates. Voluptatem debitis totam laboriosam ut sequi et excepturi voluptas. Impedit sapiente excepturi debitis. Voluptatem explicabo accusantium consectetur quas accusamus et consectetur."
+        },
+        "luz_freio_funcionando": {
+          "resposta": false,
+          "obs": "Consequatur rerum nemo eius velit consectetur qui quia et ut. Nam inventore magni consequatur. Error dignissimos beatae ea ipsa et suscipit nisi laborum provident. Qui aut itaque facere non mollitia. Labore tempora facere quia. Dolor aliquid tempora mollitia id alias ut numquam qui."
+        },
+        "pneus_calibrados": {
+          "resposta": true,
+          "obs": "Ut beatae at doloremque sequi perspiciatis. Adipisci expedita laborum sint vero. Labore et perspiciatis animi beatae temporibus ad placeat ut facere. Alias quisquam et et voluptatibus autem non nemo blanditiis repellendus."
+        },
+        "pneus_carecas": {
+          "resposta": true,
+          "obs": "Quae quo dolorum aut ut. Explicabo enim corrupti totam at quis et quaerat neque. Tenetur totam itaque ea neque. Qui minus reiciendis officia.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2"
+          ]
+        },
+        "pneu_estepe_calibrado": {
+          "resposta": true,
+          "obs": "Expedita placeat sed voluptatem deserunt assumenda et recusandae quo. Quibusdam dolorum non ducimus corporis quis voluptatem non est id. Saepe voluptas alias suscipit deleniti laboriosam."
+        },
+        "troca_oleo_em_dia": {
+          "resposta": false
+        },
+        "agua_radiador_conferida": {
+          "resposta": true,
+          "obs": "Incidunt quis suscipit cumque. Facere saepe beatae. Atque ratione in non consequatur similique sit consectetur. Nisi voluptate et quis et nihil sit numquam odit minus."
+        },
+        "macaco_em_bom_estado": {
+          "resposta": false,
+          "obs": "Reprehenderit error sit magni laboriosam libero. Quas et non et modi eius et. Quia et adipisci quae ullam. Ut eligendi molestias omnis molestiae facilis. Ut consequatur facilis maiores."
+        },
+        "triangulo_de_sinalização_em_bom_estado": {
+          "resposta": false,
+          "obs": "Totam et voluptatem et praesentium ratione dolor. Nam minima voluptas distinctio dignissimos deleniti necessitatibus quasi quis voluptatibus. In quo consequatur excepturi magnam perspiciatis iste nostrum praesentium ut. Consectetur tenetur dolore nostrum corrupti. Id corporis sit aliquid cupiditate quia vel consequatur perferendis totam."
+        },
+        "chave_de_roda_e_cabo_de_força": {
+          "resposta": true,
+          "obs": "Pariatur aliquam cumque exercitationem. Voluptas cupiditate tempora porro commodi corrupti. Sequi est hic enim possimus perspiciatis adipisci nobis ipsa. Voluptas molestiae reprehenderit consequatur similique et molestiae rem aut nulla. Provident ut ut. Rerum ex amet non sit sint."
+        },
+        "veiculo_lubrificado": {
+          "resposta": false,
+          "obs": "Quo consequatur voluptatem ducimus tempore dolores deleniti. Velit voluptatum nihil quisquam quos aut sint suscipit est. Cum quod dolore quae pariatur doloribus deleniti sed et dolore. Quibusdam in sunt odio praesentium aliquid velit error sint."
+        },
+        "freios_regulados": {
+          "resposta": true,
+          "obs": "In dolores labore. Voluptatum eum qui sit sed natus quia. Dolorem ea dolorum laudantium at quae mollitia et. Ab eos enim. Aut aliquid quo neque quo sunt dignissimos itaque repellendus incidunt. Magni facilis aliquid non corporis consequatur."
+        },
+        "documento_obrigatorio_em_dia": {
+          "resposta": false
+        },
+        "manual_do_veiculo_em_bom_estado": {
+          "resposta": true,
+          "obs": "Accusantium ex magni ratione. Consequatur maxime incidunt voluptate rerum. Eos ea minima rem tempora animi alias. Expedita quas quis pariatur et dolor et aliquam harum. Est temporibus voluptatem eaque maxime minima. Dignissimos quaerat excepturi modi delectus labore."
+        },
+        "habitacao_do_condutor_em_dia": {
+          "resposta": true
+        },
+        "cartao_ANTT_em_dia": {
+          "resposta": true
+        },
+        "adesivo_ANTT_em_bom_estado": {
+          "resposta": false,
+          "obs": "Et accusantium natus vel. Cupiditate quidem pariatur ipsum. Non voluptatem qui corporis nam odit in asperiores et. Dolor necessitatibus unde. Earum libero maiores quis nostrum iure aliquam et quo. Non incidunt similique."
+        },
+        "pintura_tara_em_bom_estado": {
+          "resposta": false,
+          "obs": "Perferendis minus perspiciatis modi. Tempora qui et explicabo. Et aperiam impedit soluta quo nostrum. Neque quasi ducimus nihil nostrum qui. Et qui a. Id vitae accusamus sunt earum dolores explicabo odio reiciendis."
+        },
+        "tacografo_funcionando_e_em_bom_estado": {
+          "resposta": false,
+          "obs": "Provident consequatur aut. Cumque nesciunt esse laboriosam nihil. In aut qui sed ducimus non officiis vitae. Aut ratione occaecati et exercitationem nisi. Voluptatem ut ipsa voluptate neque ullam iusto."
+        },
+        "disco_de_tacografo_substituido": {
+          "resposta": true,
+          "obs": "Debitis voluptatem maiores repellendus vel. Commodi quo quidem. Possimus consequuntur rerum quia magni et sed. Est suscipit maiores."
+        },
+        "certificado_de_aferição_em_dia": {
+          "resposta": true
+        },
+        "_id": "644b28b5a49f24e176e7f81c",
+        "data_verificacao": "2023-02-25T12:11:26.156Z",
+        "Oid_veiculo": {
+          "_id": "644b28b5a49f24e176e7f75e",
+          "placa": "ABC1234",
+          "marca": "expedita qui",
+          "modelo": "commodi assumenda",
+          "ano": 3936,
+          "renavan": "33333333333",
+          "vencimento_ipva": "2023-05-22T18:41:13.353Z",
+          "km_atual": 0,
+          "ativo": true
+        },
+        "Oid_motorista": {
+          "endereco": {
+            "logradouro": "Martina Marginal",
+            "numero": "2921",
+            "cep": "76982-136",
+            "bairro": "Berkshire",
+            "cidade": "Velha Ana",
+            "estado": "RO",
+            "complemento": "Suite 293"
+          },
+          "cnh": {
+            "numero": "7777777777",
+            "categoria": "B",
+            "vencimento": "2023-07-22T19:48:59.486Z"
+          },
+          "_id": "644b28b5a49f24e176e7f713",
+          "nome": "Pertino Costa",
+          "cpf": "064.779.292-36",
+          "rg": "649473749",
+          "data_nascimento": "2023-01-23T15:54:40.379Z",
+          "foto_pessoa": ".jpg",
+          "nivel": 5,
+          "telefone": "(84) 2411-2491",
+          "observacao": "",
+          "ativo": true,
+          "email": "pertinocosta41@hotmail.com",
+          "__v": 0
+        },
+        "ativo": true
+      },
+      {
+        "veiculo_lavado": {
+          "resposta": true,
+          "obs": "Exercitationem reprehenderit et eveniet consequatur ut cumque eius deleniti dolores. Consectetur aut possimus tempora eius iste aut ut aut consequatur. Eius eligendi ullam mollitia blanditiis aut culpa voluptatum aliquam. Quia quae illum aut molestiae quo et. Reprehenderit deserunt quasi ipsa. Voluptatem dolores incidunt voluptatum harum molestiae et magni id."
+        },
+        "lataria_amassada": {
+          "resposta": true,
+          "obs": "Non est consequuntur eveniet illum eum voluptate velit incidunt. Qui eum iusto dolorum vitae modi cum. Tenetur facere tempora molestiae esse eveniet distinctio incidunt nam iure.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2"
+          ]
+        },
+        "riscados_pintura": {
+          "resposta": false,
+          "obs": "Similique tempore quo sequi ex in voluptas aliquam harum magnam. Eum vel quisquam aperiam molestiae libero ea quo dicta. Aut enim et sed autem. Aut et maxime repudiandae dicta omnis aut vel. Aut vero minima quo voluptatem. Ipsum voluptates qui voluptas quae omnis omnis nostrum eos molestias.",
+          "fotos": [
+            "Imagem 1"
+          ]
+        },
+        "bau_bom_estado": {
+          "resposta": true,
+          "obs": "Aut quo explicabo ea. Velit fugiat expedita magnam sequi hic. Et fugiat dolore omnis animi sit. Nihil adipisci est dolore saepe fugit quasi aut. Reprehenderit voluptatem ratione eligendi corporis voluptatem.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2",
+            "Imagem 3"
+          ]
+        },
+        "faixas_refletivas_bom_estado": {
+          "resposta": false,
+          "obs": "Mollitia omnis velit sit id voluptate repellat sapiente sequi. Rerum explicabo est deleniti. Et veritatis sint eum suscipit eum vitae fugit. Et magni in consequuntur quia. Animi qui voluptas dicta eos optio laudantium pariatur est quo.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2",
+            "Imagem 3",
+            "Imagem 4",
+            "Imagem 5"
+          ]
+        },
+        "farol_funcionando": {
+          "resposta": true,
+          "obs": "Nulla cupiditate esse esse. Dicta occaecati reprehenderit ipsa voluptate voluptatem. Corporis voluptatem et aperiam voluptatibus officia."
+        },
+        "luz_alta_funcionando": {
+          "resposta": true,
+          "obs": "Dolor tempore ducimus optio vero tempore nemo consequatur sed. Dolor soluta tempore nihil. Error aut incidunt et repudiandae. Sint corporis dolorem nihil laboriosam atque. Voluptatem consequatur quis officiis ex quis. Doloribus minus et voluptas."
+        },
+        "meia_luz_funcionando": {
+          "resposta": false,
+          "obs": "Consequatur officia commodi aut soluta est enim. Nulla fugiat inventore aut et adipisci nihil. Tempora voluptatibus minima. Non doloribus et optio error."
+        },
+        "setas_funcionando": {
+          "resposta": false,
+          "obs": "Impedit molestiae dolor nisi vel. Consequatur aut quidem non nobis et nihil. Ex a excepturi et numquam vitae ut odit. Sequi consequatur magnam deserunt voluptatem voluptatem ut. Fugit qui nihil asperiores laudantium rerum inventore perspiciatis distinctio. Ipsam non impedit quis libero ipsum et dignissimos."
+        },
+        "lanternas_laterias_funcionando": {
+          "resposta": true,
+          "obs": "Dolores quia cumque commodi debitis. In omnis optio neque assumenda. Officiis sed adipisci vel corporis."
+        },
+        "lanterna_traseira_funcionando": {
+          "resposta": false,
+          "obs": "Molestiae voluptate distinctio inventore sapiente et. Nam eveniet quo veniam. Minus sit officiis eveniet consequuntur mollitia laborum. Voluptas facilis reiciendis."
+        },
+        "luz_freio_funcionando": {
+          "resposta": false,
+          "obs": "Laborum eveniet provident quo tempora accusamus impedit nemo. Recusandae reprehenderit sunt. Consequatur aspernatur ut id sunt cumque voluptate harum ex quia."
+        },
+        "pneus_calibrados": {
+          "resposta": false,
+          "obs": "Aut consequatur aut non beatae corrupti quod. Ullam sint consectetur. Quam et facilis impedit aliquam impedit. Qui veritatis ratione ratione pariatur. Cum et maxime eligendi magni et. Et eos ea saepe eligendi dicta dolorem voluptas."
+        },
+        "pneus_carecas": {
+          "resposta": true,
+          "obs": "Eaque quidem quasi laboriosam. Sed soluta consectetur occaecati facere eum provident. Neque quia quia illum debitis id. Totam eaque qui et ullam sed consectetur. Fuga laboriosam enim tenetur velit quam dolores. Sunt minima voluptatem sed ullam.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2",
+            "Imagem 3",
+            "Imagem 4",
+            "Imagem 5"
+          ]
+        },
+        "pneu_estepe_calibrado": {
+          "resposta": false,
+          "obs": "Est veniam architecto ut. Autem iste neque beatae provident et voluptatum quibusdam natus. Distinctio accusantium animi. Laboriosam est illum et molestiae."
+        },
+        "troca_oleo_em_dia": {
+          "resposta": false
+        },
+        "agua_radiador_conferida": {
+          "resposta": true,
+          "obs": "Qui cumque modi unde velit accusantium. Aliquid iusto dolore voluptas officia. Ex minus sapiente exercitationem quasi dolor voluptatem. Vel maxime deleniti quos sed. Facere consequatur quia consequatur. Asperiores velit iure quia."
+        },
+        "macaco_em_bom_estado": {
+          "resposta": true,
+          "obs": "Numquam repellat neque. Facilis et eius omnis. Nihil tempore mollitia neque quam officia et voluptate. Est dolores delectus. Facere expedita et omnis. Est maxime repudiandae perspiciatis incidunt quia alias incidunt quos."
+        },
+        "triangulo_de_sinalização_em_bom_estado": {
+          "resposta": true,
+          "obs": "Placeat omnis corrupti facere rem dolorem distinctio. Et itaque et est soluta dicta laudantium. Praesentium eum placeat aut. Quibusdam eos laboriosam quo sit mollitia ducimus quae molestiae in. Eos sed asperiores."
+        },
+        "chave_de_roda_e_cabo_de_força": {
+          "resposta": true,
+          "obs": "Labore veritatis repellat repudiandae quas qui assumenda aut sit ut. Labore et facilis provident repellendus nobis ut eum sed. Dolorem sequi omnis non cupiditate amet. Non voluptatem quia optio neque aperiam minus voluptas."
+        },
+        "veiculo_lubrificado": {
+          "resposta": false,
+          "obs": "Voluptatum quas nostrum sit sint amet architecto voluptatem voluptas quam. Quaerat quasi sapiente dolorem autem ut soluta est nam. Autem eligendi sunt reprehenderit."
+        },
+        "freios_regulados": {
+          "resposta": false,
+          "obs": "Et autem in ut dolores dolor nostrum dolorum quidem totam. Ratione sint qui. Qui vel dolorum maxime autem facilis recusandae quasi modi incidunt. Est omnis consequatur corporis unde adipisci beatae quia laboriosam quidem. Odio vel eos sed impedit ratione ad. Ipsum nam atque nobis recusandae aut consequatur itaque id."
+        },
+        "documento_obrigatorio_em_dia": {
+          "resposta": true
+        },
+        "manual_do_veiculo_em_bom_estado": {
+          "resposta": false,
+          "obs": "Dicta voluptatum quis inventore nam pariatur possimus voluptatem nihil velit. Tenetur ullam et pariatur voluptatum quo dolorem. Cupiditate dolorum rerum."
+        },
+        "habitacao_do_condutor_em_dia": {
+          "resposta": false
+        },
+        "cartao_ANTT_em_dia": {
+          "resposta": false
+        },
+        "adesivo_ANTT_em_bom_estado": {
+          "resposta": true,
+          "obs": "Consequatur beatae et. Pariatur ut quos commodi similique ab. Rem occaecati veritatis consequatur. Corrupti non odit necessitatibus et et dignissimos maiores enim animi. Nam ex iure non quis quis. Aut dolorem at neque dolores voluptatem natus rerum."
+        },
+        "pintura_tara_em_bom_estado": {
+          "resposta": false,
+          "obs": "Unde sit velit nam tenetur laboriosam rem ipsa repellendus. Dolorum velit ad numquam. Aliquid expedita ipsa non voluptas id magni cumque sint. Ipsa ut accusamus aut dolorum dolorem temporibus quia incidunt. Cum voluptas in consequuntur blanditiis."
+        },
+        "tacografo_funcionando_e_em_bom_estado": {
+          "resposta": false,
+          "obs": "Ut ex magni perferendis. Quia soluta sit. Nihil dignissimos quisquam. Rerum sunt cumque quia id cupiditate quam ratione harum repellat."
+        },
+        "disco_de_tacografo_substituido": {
+          "resposta": false,
+          "obs": "Inventore at vero sunt ipsa nisi fuga. Fugiat sed cupiditate suscipit ut. Deserunt eum laudantium nobis corrupti laboriosam voluptas."
+        },
+        "certificado_de_aferição_em_dia": {
+          "resposta": true
+        },
+        "_id": "644b28b5a49f24e176e7f81e",
+        "data_verificacao": "2023-01-31T20:42:41.994Z",
+        "Oid_veiculo": {
+          "_id": "644b28b5a49f24e176e7f770",
+          "placa": "ABC1234",
+          "marca": "deleniti aut",
+          "modelo": "soluta deserunt",
+          "ano": 3393,
+          "renavan": "00000000000",
+          "vencimento_ipva": "2023-10-22T09:53:33.552Z",
+          "km_atual": 0,
+          "ativo": true
+        },
+        "Oid_motorista": {
+          "endereco": {
+            "logradouro": "Zulamar Ponte",
+            "numero": "1313",
+            "cep": "76982-136",
+            "bairro": "Cambridgeshire",
+            "cidade": "Batista de Nossa Senhora",
+            "estado": "RO",
+            "complemento": "Suite 296"
+          },
+          "cnh": {
+            "numero": "2222222222",
+            "categoria": "D",
+            "vencimento": "2024-02-05T15:35:26.161Z"
+          },
+          "_id": "644b28b4a49f24e176e7f6ef",
+          "nome": "Cármen Barros",
+          "cpf": "064.779.292-36",
+          "rg": "217802872",
+          "data_nascimento": "2022-08-28T14:03:21.933Z",
+          "foto_pessoa": ".jpg",
+          "nivel": 2,
+          "telefone": "(79) 37917-7976",
+          "observacao": "",
+          "ativo": true,
+          "email": "cármenbarros3@email.com",
+          "__v": 0
+        },
+        "ativo": false
+      },
+      {
+        "veiculo_lavado": {
+          "resposta": true,
+          "obs": "Autem voluptate beatae dicta aut commodi laboriosam illo ipsa officiis. Sed aut consequatur aut. Veritatis et magni quia fugiat aut delectus est."
+        },
+        "lataria_amassada": {
+          "resposta": true,
+          "obs": "Quam dolor velit sed deleniti nam velit expedita possimus. Amet non a quo et animi. Voluptas sunt quidem aut qui nemo quibusdam aut dolor earum. Commodi numquam doloribus id fugit suscipit amet quisquam.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2"
+          ]
+        },
+        "riscados_pintura": {
+          "resposta": false,
+          "obs": "Ea deleniti sapiente veniam asperiores quidem voluptatem aut sunt. Dolor ratione porro. Tempore omnis veritatis et neque deleniti et placeat. Velit eius est at fuga cupiditate et qui expedita assumenda. Consectetur sit tempore ut dolor aliquid reprehenderit dolorem placeat minima.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2",
+            "Imagem 3"
+          ]
+        },
+        "bau_bom_estado": {
+          "resposta": true,
+          "obs": "Mollitia quod et iure facilis veniam. At excepturi maxime porro reprehenderit. Quia repudiandae facilis facere non et odit. Aspernatur consequatur voluptatum amet eum. Ipsum autem sequi fugiat ratione dolores nobis consequatur nihil sint. Deserunt in iure fugiat recusandae quis vitae.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2"
+          ]
+        },
+        "faixas_refletivas_bom_estado": {
+          "resposta": true,
+          "obs": "Debitis voluptatem voluptatum ut et et. Distinctio odio modi tempora a eveniet et. Excepturi cumque distinctio. Ipsa facere provident omnis eum.",
+          "fotos": [
+            "Imagem 1",
+            "Imagem 2"
+          ]
+        },
+        "farol_funcionando": {
+          "resposta": false,
+          "obs": "Nulla debitis assumenda voluptatem enim sunt in. Fuga dolorem aut animi dolores est ratione. Occaecati eligendi assumenda eum excepturi incidunt nisi."
+        },
+        "luz_alta_funcionando": {
+          "resposta": false,
+          "obs": "Hic est debitis voluptatem qui. Eveniet aut perspiciatis non quo voluptate dolorem. Perspiciatis error et occaecati distinctio nemo dignissimos."
+        },
+        "meia_luz_funcionando": {
+          "resposta": false,
+          "obs": "Necessitatibus odio culpa neque voluptas aspernatur qui. Voluptas enim sed itaque perferendis id labore porro numquam. Nostrum quasi incidunt iste repudiandae nihil consectetur iure nemo."
+        },
+        "setas_funcionando": {
+          "resposta": false,
+          "obs": "Asperiores aut sint incidunt illo magni. Reiciendis quis ipsa. Nihil deleniti aut ducimus unde mollitia repudiandae et nisi ut. Excepturi sit dolor ducimus est alias."
+        },
+        "lanternas_laterias_funcionando": {
+          "resposta": false,
+          "obs": "Debitis cumque qui quibusdam. Voluptates enim qui minus. Iure molestiae eligendi sit. Est voluptates animi minima placeat saepe architecto. Delectus ex nam quia omnis quaerat accusamus excepturi consequatur fugiat."
+        },
+        "lanterna_traseira_funcionando": {
+          "resposta": true,
+          "obs": "Totam rerum libero omnis cumque et omnis. Hic ex nemo et in voluptatem quia voluptatum animi atque. Impedit voluptatum suscipit sit impedit. Suscipit sapiente ducimus facere optio deleniti. Ex sit in est. Voluptatibus quae assumenda adipisci assumenda rerum illo commodi quod."
+        },
+        "luz_freio_funcionando": {
+          "resposta": false,
+          "obs": "Dolor quis vel vitae error magnam consequatur officiis. Voluptatem dolorem iusto et laboriosam. Officiis consequatur et in omnis quia porro deserunt. Unde facilis eum quas impedit maiores qui dicta. Architecto magni ut accusantium natus dolorem. Voluptates quia ipsa deserunt qui aspernatur maiores sint fuga."
+        },
+        "pneus_calibrados": {
+          "resposta": false,
+          "obs": "Quibusdam voluptate repellat sit. Debitis ex sequi recusandae et vitae qui et mollitia sit. Et fugit minima animi. Eos minima doloremque ratione sed consequatur officiis eos voluptates. Alias labore reiciendis accusantium aliquam sed fugit."
+        },
+        "pneus_carecas": {
+          "resposta": false,
+          "obs": "Molestias quasi enim est dolore non nobis laudantium repellat expedita. Dicta quae esse eligendi. Modi et laboriosam et. Dolorem repudiandae voluptatem dolorem et non eos.",
+          "fotos": [
+            "Imagem 1"
+          ]
+        },
+        "pneu_estepe_calibrado": {
+          "resposta": false,
+          "obs": "A at perferendis ut tenetur accusamus. Pariatur voluptatem quidem et iure et non eum asperiores. Hic repellat non dolor doloremque tempora et voluptatem dolorem. Aut sunt odio reiciendis accusamus eveniet placeat sunt ullam aut. Itaque doloribus culpa sunt est ipsa sequi ratione. Eius officiis dolor blanditiis recusandae."
+        },
+        "troca_oleo_em_dia": {
+          "resposta": false
+        },
+        "agua_radiador_conferida": {
+          "resposta": false,
+          "obs": "Autem exercitationem nisi ut. Enim sint et corrupti quia quia ad et officiis. Nesciunt saepe voluptatem omnis sint nihil quo. Nemo quaerat commodi minus odio voluptatem et voluptatem."
+        },
+        "macaco_em_bom_estado": {
+          "resposta": true,
+          "obs": "Soluta et qui omnis consectetur reiciendis voluptas quia doloribus. Eaque est expedita blanditiis ratione veniam perspiciatis unde. Enim non vero molestiae numquam excepturi et. Molestiae quod tempora et asperiores praesentium veniam cum. Totam nam labore ullam perferendis nihil quasi aut nihil."
+        },
+        "triangulo_de_sinalização_em_bom_estado": {
+          "resposta": true,
+          "obs": "Veniam placeat molestiae aut. Error et at dolorem eaque dolores autem qui. Aut quo possimus rerum vero. Vitae voluptates tempora nisi consequatur minima sunt nostrum voluptatem aut."
+        },
+        "chave_de_roda_e_cabo_de_força": {
+          "resposta": true,
+          "obs": "Qui non quae et placeat molestiae aut. Autem sint vero doloribus eum eius quisquam provident. Quia omnis debitis quasi nisi."
+        },
+        "veiculo_lubrificado": {
+          "resposta": false,
+          "obs": "Aut dolorem minima aut minus saepe maiores. Consequatur aut et molestias magni rerum nostrum eligendi facilis. Atque aut incidunt nihil aut qui quia. Temporibus sapiente voluptatem alias dolorem. Unde repudiandae consequuntur dolore eaque minima. Ducimus autem eius ex qui dolores et illum quaerat."
+        },
+        "freios_regulados": {
+          "resposta": true,
+          "obs": "Et optio perspiciatis magnam sed quia autem qui quidem neque. Rerum hic ratione soluta sunt id quae voluptatem. Aut ut quibusdam et. Quisquam facilis eum repellendus sequi optio voluptas."
+        },
+        "documento_obrigatorio_em_dia": {
+          "resposta": false
+        },
+        "manual_do_veiculo_em_bom_estado": {
+          "resposta": false,
+          "obs": "Laboriosam dicta molestias aspernatur ducimus eos. Corrupti sequi voluptas quia nisi. Voluptatem illum sed at. Ut eligendi est eligendi sit. Necessitatibus qui et eos dolorem ducimus delectus est. Recusandae quisquam nostrum veritatis amet."
+        },
+        "habitacao_do_condutor_em_dia": {
+          "resposta": false
+        },
+        "cartao_ANTT_em_dia": {
+          "resposta": false
+        },
+        "adesivo_ANTT_em_bom_estado": {
+          "resposta": false,
+          "obs": "Odit dolores aut magni voluptatem. Hic eveniet quas accusamus in qui totam. Sint quae molestias earum et nihil delectus voluptatum perspiciatis dignissimos. Error dolor delectus est. Occaecati totam vel sit sequi. Molestiae aut sint cumque necessitatibus."
+        },
+        "pintura_tara_em_bom_estado": {
+          "resposta": false,
+          "obs": "Iste perferendis minus aut. Officia debitis aspernatur facere sunt explicabo voluptas. Labore voluptatem aut molestiae ut vel quo dignissimos et consequuntur."
+        },
+        "tacografo_funcionando_e_em_bom_estado": {
+          "resposta": false,
+          "obs": "Aut nobis commodi. Voluptatem non eos sint. Consequuntur accusantium deleniti enim qui veritatis autem ut delectus. Tenetur et possimus ipsam. Nesciunt ullam et."
+        },
+        "disco_de_tacografo_substituido": {
+          "resposta": false,
+          "obs": "Ullam ut animi esse ut voluptas modi. Consequatur laborum ex officiis rerum sunt. Ut quae hic dolores voluptas eius pariatur ut facere fuga. Itaque incidunt ullam harum qui minima dolores deserunt."
+        },
+        "certificado_de_aferição_em_dia": {
+          "resposta": true
+        },
+        "_id": "644b28b5a49f24e176e7f820",
+        "data_verificacao": "2022-06-04T00:04:04.185Z",
+        "Oid_veiculo": {
+          "_id": "644b28b5a49f24e176e7f786",
+          "placa": "ABC1234",
+          "marca": "totam et",
+          "modelo": "laboriosam deleniti",
+          "ano": 3430,
+          "renavan": "00000000000",
+          "vencimento_ipva": "2023-09-07T16:26:11.774Z",
+          "km_atual": 0,
+          "ativo": true
+        },
+        "Oid_motorista": {
+          "endereco": {
+            "logradouro": "Valdenir Rodovia",
+            "numero": "771",
+            "cep": "76982-136",
+            "bairro": "Berkshire",
+            "cidade": "Marino de Nossa Senhora",
+            "estado": "RO",
+            "complemento": "Suite 559"
+          },
+          "cnh": {
+            "numero": "2222222222",
+            "categoria": "C",
+            "vencimento": "2023-11-12T00:15:07.099Z"
+          },
+          "_id": "644b28b4a49f24e176e7f6e1",
+          "nome": "Valmir Souza",
+          "cpf": "064.779.292-36",
+          "rg": "020873993",
+          "data_nascimento": "2022-07-14T01:30:08.910Z",
+          "foto_pessoa": ".jpg",
+          "nivel": 3,
+          "telefone": "+55 (16) 2413-1811",
+          "observacao": "",
+          "ativo": true,
+          "email": "valmirsouza97@hotmail.com",
+          "__v": 0
+        },
+        "ativo": false
+      }
+    ],
+    "total": 30,
+    "limit": 10,
+    "page": 1,
+    "pages": 3
+  }

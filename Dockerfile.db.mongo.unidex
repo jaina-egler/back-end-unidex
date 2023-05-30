@@ -1,0 +1,8 @@
+FROM mongo:latest as mongo-unidex
+EXPOSE 27018
+VOLUME /data/db
+ENV MONGO_INITDB_DATABASE unidex
+COPY mongod.conf.unidex /etc/mongod.conf
+CMD ["mongod", "--config", "/etc/mongod.conf"]
+COPY mongo-init.DBunidex.js /docker-entrypoint-initdb.d/
+RUN chmod +r /docker-entrypoint-initdb.d/mongo-init.DBunidex.js

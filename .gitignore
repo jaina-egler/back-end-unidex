@@ -1,0 +1,5 @@
+/node_modules/
+/data.MongoDBunidex/
+src/config/auth.js
+data/
+coverage/

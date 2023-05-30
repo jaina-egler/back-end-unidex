@@ -1,0 +1,56 @@
+# criar um container docker-compose para o mysql
+version: '3.8'
+
+services:
+
+  # Criando o container do mongo
+  mongo-unidex:
+    build:
+      context: .
+      dockerfile: Dockerfile.db.mongo.unidex
+    container_name: mongo-unidex
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: ${MONGO_INITDB_ROOT_USERNAME_UNIDEX}
+      MONGO_INITDB_ROOT_PASSWORD: ${MONGO_INITDB_ROOT_PASSWORD_UNIDEX}
+    ports:
+      - ${MONGO_EXPOSED_PORT_UNIDEX}:${MONGO_PORT_UNIDEX}
+    volumes:
+      - ./data.MongoDBunidex:/data/db
+    networks:
+      fslab-network:
+        # ipv4_address: 172.18.0.3
+
+
+# Criando o container do nodejs
+  api-unidex:
+    restart: always
+    build:
+      context: .
+      dockerfile: Dockerfile.api.unidex
+    container_name: api-unidex
+    working_dir: ${NODE_WORKING_DIR_UNIDEX}
+    command: "npm start"
+    links:
+      - mongo-unidex
+    environment:
+      - DB_URL=mongodb://root:fslab@mongo-unidex:27018/unidex
+      - NODE_ENV=production
+    expose:
+      - 3034
+    ports:
+      - 3034:3034
+    networks:
+      fslab-network:
+        # ipv4_address: 172.18.0.5
+
+# criando a rede para os containers docker-compose - os containers se comunicam entre si nessa rede
+networks:
+  fslab-network:
+    driver: bridge
+    # ipam:
+          # config:
+            # - subnet: 172.18.0.0/16
+              # gateway: 172.18.0.1
+
+volumes:
+  mongodb_data_container:

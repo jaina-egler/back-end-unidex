@@ -1,0 +1,7 @@
+FROM --platform=linux/amd64 node:latest AS cras
+COPY . /api
+WORKDIR /api
+RUN npm install
+EXPOSE 3034
+CMD ["npm", "start"]
+
